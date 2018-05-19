@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Market">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1650+0200">
+        <HorseRef name="For Luck Sake" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="6" denominator="1" noOffers="No" timestamp="20180518T164141+0200" />
+        </HorseRef>
+        <HorseRef name="Mini Loushe" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="6" denominator="1" noOffers="No" timestamp="20180518T164141+0200" />
+        </HorseRef>
+        <HorseRef name="Shine Like A Star" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="11" denominator="5" noOffers="No" timestamp="20180518T164141+0200" />
+        </HorseRef>
+        <HorseRef name="Figaro" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180518T164142+0200" />
+        </HorseRef>
+        <HorseRef name="Barbarella Nights" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180518T164142+0200" />
+        </HorseRef>
+        <HorseRef name="No Fly Zone" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180518T164142+0200" />
+        </HorseRef>
+        <HorseRef name="Little Mo" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180518T164141+0200" />
+        </HorseRef>
+        <HorseRef name="Kimberley Club" bred="AUS">
+          <ClothRef number="8" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180518T164141+0200" />
+        </HorseRef>
+        <HorseRef name="Rule The World" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180518T164141+0200" />
+        </HorseRef>
+        <HorseRef name="Valentine's Girl" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180518T164142+0200" />
+        </HorseRef>
+        <HorseRef name="Seattle Spell" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="13" denominator="2" noOffers="No" timestamp="20180518T164141+0200" />
+        </HorseRef>
+        <HorseRef name="Blizzard King" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180518T164142+0200" />
+        </HorseRef>
+        <HorseRef name="Angelus Bell" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180518T164142+0200" />
+        </HorseRef>
+        <HorseRef name="Stir It Up" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180518T164142+0200" />
+        </HorseRef>
+        <HorseRef name="Auto Pilot" bred="SAF">
+          <ClothRef number="15" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180518T164141+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

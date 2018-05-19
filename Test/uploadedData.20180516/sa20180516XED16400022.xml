@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="22" type="RaceDividends">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1640+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="5.70">
+          <HorseRef name="Archilles" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.90">
+          <HorseRef name="Archilles" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.90">
+          <HorseRef name="Amor Ardiente" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="6.00">
+          <HorseRef name="Roy's Magic" bred="AUS">
+            <ClothRef number="15" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="74.40">
+          <HorseRef name="Archilles" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+          <HorseRef name="Amor Ardiente" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="1349.40">
+          <HorseRef name="Archilles" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+          <HorseRef name="Amor Ardiente" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Roy's Magic" bred="AUS">
+            <ClothRef number="15" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

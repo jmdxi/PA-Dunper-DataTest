@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="22" type="Result">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1350+0200">
+        <HorseRef name="Mr Tinsel" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Tommy The Builder" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="2" disqualified="No" btnDistance="Neck" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Agent Kay" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="3" disqualified="No" btnDistance="4 lengths" />
+          <StartingPrice numerator="7" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Dreamsaremadeof" bred="AUS">
+          <ClothRef number="10" />
+          <Result finishPos="4" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Limestone Mass" bred="IRE">
+          <ClothRef number="9" />
+          <Result finishPos="5" disqualified="No" btnDistance="Short Head" />
+          <StartingPrice numerator="2" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Eureka Effect" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="6" disqualified="No" btnDistance="3 1/4 lengths" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Civil Disobedience" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="7" disqualified="No" btnDistance="2 1/4 lengths" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="King Of Promise" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="8" disqualified="No" btnDistance="7 lengths" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Eagle Ruler" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="9" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Bytrix" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="10" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Scholar Patrol" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="11" disqualified="No" btnDistance="11 1/2 lengths" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

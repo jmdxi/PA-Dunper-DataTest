@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="14" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1330+0200">
+        <HorseRef name="China Wolf" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Runaway Rebel" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Vodka Lime" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Negma" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Vase" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="8" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Bubzee Girl" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Pumeza" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Moonlight Dancer" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Hollywood Belle" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="13" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Kiava" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Stormy" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

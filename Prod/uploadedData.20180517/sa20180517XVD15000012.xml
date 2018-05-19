@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="12" type="Show">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1500+0200">
+        <HorseRef name="Melinda's Garden" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180517T150023+0200" />
+        </HorseRef>
+        <HorseRef name="Pearl Of Bahrain" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="5" denominator="2" noOffers="No" timestamp="20180517T150024+0200" />
+        </HorseRef>
+        <HorseRef name="Sheema" bred="BRZ">
+          <ClothRef number="11" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180517T150024+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

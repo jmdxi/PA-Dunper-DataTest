@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Going">
+    <MeetRef course="Greyville" country="South Africa" date="20180519">
+      <RaceRef time="0000+0200">
+        <RaceGoing brief="Standard" />
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

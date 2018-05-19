@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1505+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="8.60">
+          <HorseRef name="Red Granite" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="4.10">
+          <HorseRef name="Red Granite" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.20">
+          <HorseRef name="Beataboutthebush" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="21.60">
+          <HorseRef name="Red Granite" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Beataboutthebush" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="138.80">
+          <HorseRef name="Red Granite" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Beataboutthebush" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Tiffindell" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

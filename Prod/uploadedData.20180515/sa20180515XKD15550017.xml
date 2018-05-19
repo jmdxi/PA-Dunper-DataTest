@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1555+0200">
+        <HorseRef name="Cavalleria" bred="SAF">
+          <ClothRef number="12" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Pearl Jam" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Chestnut's Charm" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Shangri La" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Tease" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Solana" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Elusive Run" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Keep The Faith" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Looking At Stars" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Flash Fire" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Summer Olimpics" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="RaceDividends">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1415+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="9.90">
+          <HorseRef name="Seattle Sunset" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.90">
+          <HorseRef name="Seattle Sunset" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.40">
+          <HorseRef name="Notacademicatall" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.70">
+          <HorseRef name="Ahead Of Traffic" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="46.60">
+          <HorseRef name="Seattle Sunset" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+          <HorseRef name="Notacademicatall" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="464.50">
+          <HorseRef name="Seattle Sunset" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+          <HorseRef name="Notacademicatall" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Ahead Of Traffic" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1315+0200">
+        <HorseRef name="Seattle Lily" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="2" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Mackerel Sky" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Malinda" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="11" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Dona" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Dear Moniette" bred="AUS">
+          <ClothRef number="2" />
+          <StartingPrice numerator="18" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Fanfare" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Stavros Christos" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Christmas Cottage" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ita" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

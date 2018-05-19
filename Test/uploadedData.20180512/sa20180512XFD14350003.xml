@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180512">
+      <RaceRef time="1435+0200">
+        <HorseRef name="Alfeo" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" />
+        </HorseRef>
+        <HorseRef name="Madame Speaker" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="2" disqualified="No" />
+        </HorseRef>
+        <HorseRef name="Born A Bully" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="3" disqualified="No" />
+        </HorseRef>
+        <HorseRef name="Super Socks" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="4" disqualified="No" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

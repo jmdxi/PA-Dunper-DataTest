@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="12" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1650+0200">
+        <HorseRef name="For Luck Sake" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Mini Loushe" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Shine Like A Star" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="9" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Figaro" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Barbarella Nights" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="No Fly Zone" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Little Mo" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kimberley Club" bred="AUS">
+          <ClothRef number="8" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rule The World" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Valentine's Girl" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Seattle Spell" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Blizzard King" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Angelus Bell" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Stir It Up" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Auto Pilot" bred="SAF">
+          <ClothRef number="15" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

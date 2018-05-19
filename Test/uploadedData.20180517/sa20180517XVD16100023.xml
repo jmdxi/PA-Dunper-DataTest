@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="23" type="Result">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1610+0200">
+        <HorseRef name="Kissable" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Seven Lives" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="6" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Barrack Street" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sporting Monarch" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Tandava" bred="ZIM">
+          <ClothRef number="1" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Queen Laurie" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Greasepaint" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Donny G" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Brigtnumberten" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Whorly Whorly" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Al Azraq" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Marmook" bred="AUS">
+          <ClothRef number="12" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Nephrite" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Crimson Magic" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

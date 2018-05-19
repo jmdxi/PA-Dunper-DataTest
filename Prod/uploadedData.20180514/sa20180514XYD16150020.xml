@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="Result">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1615+0200">
+        <HorseRef name="Somnium" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Catwalk Tease" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="2" disqualified="No" btnDistance="Neck" />
+          <StartingPrice numerator="19" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Leaps And Bounds" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="3" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="17" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Queen At War" bred="SAF">
+          <ClothRef number="12" />
+          <Result finishPos="4" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Sharak Alhubb" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Jozi Babe" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Satin Rock" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Blue Jasmine" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Class Protector" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Doctors Answer" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Wings N Things" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="French Folie" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Summer Fashion" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

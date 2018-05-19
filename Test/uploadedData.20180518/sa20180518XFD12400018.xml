@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="18" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1240+0200">
+        <HorseRef name="Albrandino" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="14" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Falcon Rock" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="My Boy Jack" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="15" denominator="8" />
+        </HorseRef>
+        <HorseRef name="Rock Fantastic" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="20" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Domremy" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Perfect Timing" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Wonder Woman" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

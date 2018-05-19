@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="13" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1230+0200">
+        <HorseRef name="Crimean Queen" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Runaway Gal" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="2" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Satara" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Carefree" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Flames Are Flying" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Little Audrey" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Purest Bliss" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="8" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Wildly In Love" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

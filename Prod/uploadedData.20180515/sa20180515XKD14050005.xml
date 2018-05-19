@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="5" type="Show">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1405+0200">
+        <HorseRef name="Woodland's Forest" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="10" denominator="1" noOffers="No" timestamp="20180515T140000+0200" />
+        </HorseRef>
+        <HorseRef name="Paddington" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="3" denominator="1" noOffers="No" timestamp="20180515T140000+0200" />
+        </HorseRef>
+        <HorseRef name="Zanzibarian" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="16" denominator="5" noOffers="No" timestamp="20180515T140000+0200" />
+        </HorseRef>
+        <HorseRef name="Rock My Soul" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="3" denominator="1" noOffers="No" timestamp="20180515T140000+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

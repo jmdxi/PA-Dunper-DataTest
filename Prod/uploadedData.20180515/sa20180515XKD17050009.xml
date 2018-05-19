@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="9" type="Show">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1705+0200">
+        <HorseRef name="Troop The Colour" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="16" denominator="1" noOffers="No" timestamp="20180515T165741+0200" />
+        </HorseRef>
+        <HorseRef name="Rikers Island" bred="AUS">
+          <ClothRef number="6" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180515T165741+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

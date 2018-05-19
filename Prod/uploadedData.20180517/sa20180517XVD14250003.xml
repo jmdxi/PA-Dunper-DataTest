@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Market">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1425+0200">
+        <HorseRef name="Count Kournikova" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="9" denominator="2" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Sing And Dance" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Pachanga" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Rabia The Rebel" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Rhyme Or Reason" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Regal Lady" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Banana Republic" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="4" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Milly's Miracle" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Polly Again" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Await The Sunset" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Big Myth" bred="AUS">
+          <ClothRef number="11" />
+          <Show numerator="17" denominator="5" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Jenny Mcgee" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Aegean" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+        <HorseRef name="Jailhouse Jazz" bred="AUS">
+          <ClothRef number="14" />
+          <Show numerator="2" denominator="1" noOffers="No" timestamp="20180517T141129+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

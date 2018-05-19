@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="8" type="Show">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1555+0200">
+        <HorseRef name="Elusive Run" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180515T155106+0200" />
+        </HorseRef>
+        <HorseRef name="Summer Olimpics" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180515T155106+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

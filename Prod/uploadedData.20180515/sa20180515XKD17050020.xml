@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1705+0200">
+        <HorseRef name="Giant Flag" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="13" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Troop The Colour" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Moon Rock" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Red Shift" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Bold Assassin" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="20" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rikers Island" bred="AUS">
+          <ClothRef number="6" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Aldato" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Black Sail" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Grand Silvano" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Wave Hello" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Black Indy" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Carlas Mambo" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Noble Class" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Parade March" bred="SAF">
+          <ClothRef number="15" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="24" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180512">
+      <RaceRef time="1505+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="2.90">
+          <HorseRef name="American Landing" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.70">
+          <HorseRef name="American Landing" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.70">
+          <HorseRef name="Widow's Lamp" bred="SAF">
+            <ClothRef number="14" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.70">
+          <HorseRef name="Run Red" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="11.10">
+          <HorseRef name="American Landing" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+          <HorseRef name="Widow's Lamp" bred="SAF">
+            <ClothRef number="14" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="245.00">
+          <HorseRef name="American Landing" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+          <HorseRef name="Widow's Lamp" bred="SAF">
+            <ClothRef number="14" />
+          </HorseRef>
+          <HorseRef name="Run Red" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

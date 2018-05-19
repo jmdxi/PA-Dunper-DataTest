@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1340+0200">
+        <HorseRef name="Washington Square" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Autumn Rain" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Master Thief" bred="SAF">
+          <ClothRef number="13" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Bronzed" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="8" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Iknow" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ragnar" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="King Kotini" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Colour Crusade" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Scorch" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Truly Proud" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Elusive Master" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Gentleman's Way" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Jack Of All Trades" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Perpetual Flame" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Var's Boy" bred="SAF">
+          <ClothRef number="16" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Combat Captain" bred="SAF">
+          <ClothRef number="17" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

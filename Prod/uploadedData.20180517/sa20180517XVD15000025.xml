@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="25" type="RaceDividends">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1500+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="17.20">
+          <HorseRef name="Itsmydarlin" bred="SAF">
+            <ClothRef number="13" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="4.20">
+          <HorseRef name="Itsmydarlin" bred="SAF">
+            <ClothRef number="13" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.20">
+          <HorseRef name="Melinda's Garden" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.60">
+          <HorseRef name="Black Biscuit" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="216.30">
+          <HorseRef name="Itsmydarlin" bred="SAF">
+            <ClothRef number="13" />
+          </HorseRef>
+          <HorseRef name="Melinda's Garden" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="1558.70">
+          <HorseRef name="Itsmydarlin" bred="SAF">
+            <ClothRef number="13" />
+          </HorseRef>
+          <HorseRef name="Melinda's Garden" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Black Biscuit" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

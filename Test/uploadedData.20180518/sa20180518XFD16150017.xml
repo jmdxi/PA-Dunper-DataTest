@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1615+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="5.50">
+          <HorseRef name="Captain Marmalade" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.30">
+          <HorseRef name="Captain Marmalade" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.70">
+          <HorseRef name="Lord Windermere" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.30">
+          <HorseRef name="Arctic Blast" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="33.20">
+          <HorseRef name="Captain Marmalade" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Lord Windermere" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="455.10">
+          <HorseRef name="Captain Marmalade" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Lord Windermere" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Arctic Blast" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

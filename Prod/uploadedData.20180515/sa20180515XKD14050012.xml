@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="12" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1405+0200">
+        <HorseRef name="William The Brave" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Woodland's Forest" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Paddington" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="16" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Zanzibarian" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="18" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Rock My Soul" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="11" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Ballad Of The Sea" bred="AUS">
+          <ClothRef number="6" />
+          <StartingPrice numerator="13" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Gibraltar Green" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

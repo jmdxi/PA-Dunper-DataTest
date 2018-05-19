@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="15" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1630+0200">
+        <HorseRef name="River Cam" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Spectra Force" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Silver Master" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="17" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Siberian Husky" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Flash Twice" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Icon King" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Hotel Cipriani" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Milden Spell" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Mtoroshanga" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Pen-chan" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="King Of Aces" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="I Touch The Sky" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

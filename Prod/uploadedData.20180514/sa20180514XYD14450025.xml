@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="25" type="RaceDividends">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1445+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="12.00">
+          <HorseRef name="Russian Saint" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.60">
+          <HorseRef name="Russian Saint" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.90">
+          <HorseRef name="Zanjabeel" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.40">
+          <HorseRef name="Aqua Blue" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="65.50">
+          <HorseRef name="Russian Saint" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+          <HorseRef name="Zanjabeel" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="312.30">
+          <HorseRef name="Russian Saint" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+          <HorseRef name="Zanjabeel" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+          <HorseRef name="Aqua Blue" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

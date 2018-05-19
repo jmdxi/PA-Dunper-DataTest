@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="Result">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1315+0200">
+        <HorseRef name="Anneka" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="5" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Sweet Red" bred="AUS">
+          <ClothRef number="11" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="7" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Abelie" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="7" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Bated Breath" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kapama" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Madiba's Magic" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Merengue" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="My Dream Chaser" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Practical Cat" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="St Bernadette" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Waltz With Me" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Liquid Gold" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

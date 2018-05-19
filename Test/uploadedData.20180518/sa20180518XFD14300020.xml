@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1430+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="1.40">
+          <HorseRef name="Sacred Touch" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.00">
+          <HorseRef name="Sacred Touch" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.50">
+          <HorseRef name="Big Jay's" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="5.60">
+          <HorseRef name="Sacred Touch" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Big Jay's" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="11.90">
+          <HorseRef name="Sacred Touch" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Big Jay's" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+          <HorseRef name="Conquering King" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

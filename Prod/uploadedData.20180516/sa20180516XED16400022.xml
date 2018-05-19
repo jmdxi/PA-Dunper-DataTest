@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="22" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1640+0200">
+        <HorseRef name="Archilles" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Amor Ardiente" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="2" disqualified="No" btnDistance="2 lengths" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Roy's Magic" bred="AUS">
+          <ClothRef number="15" />
+          <Result finishPos="3" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Subtropical" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="4" disqualified="No" btnDistance="Short Head" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Prince Of Promise" bred="SAF">
+          <ClothRef number="14" />
+          <Result finishPos="5" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Mark Tapley" bred="SAF">
+          <ClothRef number="13" />
+          <Result finishPos="6" disqualified="No" btnDistance="Short Head" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Shogun" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="7" disqualified="No" btnDistance="Short Head" />
+          <StartingPrice numerator="16" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Volcanic Sunset" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="8" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Baltic Amber" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="9" disqualified="No" btnDistance="1 length" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Iron Wolf" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="10" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="World Mission" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="11" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Francesco" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="12" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Putchini" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="13" disqualified="No" btnDistance="3 1/4 lengths" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Border Control" bred="SAF">
+          <ClothRef number="12" />
+          <Result finishPos="14" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="African Pharaoh" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="15" disqualified="No" btnDistance="5 3/4 lengths" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

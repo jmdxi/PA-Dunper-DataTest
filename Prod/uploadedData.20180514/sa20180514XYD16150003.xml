@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Show">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1615+0200">
+        <HorseRef name="Jozi Babe" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180514T160246+0200" />
+        </HorseRef>
+        <HorseRef name="Satin Rock" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180514T160246+0200" />
+        </HorseRef>
+        <HorseRef name="Wintry Night" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180514T160246+0200" />
+        </HorseRef>
+        <HorseRef name="Doctors Answer" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180514T160246+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

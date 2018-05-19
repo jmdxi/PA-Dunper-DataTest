@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="11" type="Result">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1415+0200">
+        <HorseRef name="Two Gunsy" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="First Sea Lord" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Notacademicatall" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="11" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Elusive Singer" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ahead Of Traffic" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Saint Marco" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Seattle Sunset" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Nicklaus" bred="BRZ">
+          <ClothRef number="8" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Manouche" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="What A Poet" bred="AUS">
+          <ClothRef number="10" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Master Runner" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

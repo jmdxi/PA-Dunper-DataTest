@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="24" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1605+0200">
+        <HorseRef name="Raes' Dyna Jet" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Into The Groove" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Love Lyric" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Green Ice" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Illuminate" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Mirwa" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Wind Belle" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Dinner Date" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Laat Lammetjie" bred="AUS">
+          <ClothRef number="11" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Pumpkin Queen" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Dark Sienna" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Lady Elliodor" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Minnie The Moocher" bred="SAF">
+          <ClothRef number="15" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Art Attack" bred="SAF">
+          <ClothRef number="17" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

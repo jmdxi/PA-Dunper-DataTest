@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="30" type="RaceDividends">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1645+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="18.40">
+          <HorseRef name="Sir Spencer" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="5.00">
+          <HorseRef name="Sir Spencer" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="7.90">
+          <HorseRef name="Tour Of Duty" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.00">
+          <HorseRef name="Supanova" bred="SAF">
+            <ClothRef number="15" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="586.60">
+          <HorseRef name="Sir Spencer" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Tour Of Duty" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="3318.80">
+          <HorseRef name="Sir Spencer" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Tour Of Duty" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+          <HorseRef name="Supanova" bred="SAF">
+            <ClothRef number="15" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

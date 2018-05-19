@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="18" type="Result">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1500+0200">
+        <HorseRef name="Blue Berry Pie" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Melinda's Garden" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Pearl Of Bahrain" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="5" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Glamorous Scandal" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ossetra" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Black Biscuit" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Purdey" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Gold Shades" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sheema" bred="BRZ">
+          <ClothRef number="11" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="It Is Not Over" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Itsmydarlin" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Wings Of Charne" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="All Done" bred="SAF">
+          <ClothRef number="15" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Juba" bred="SAF">
+          <ClothRef number="16" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="5" type="Market">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1315+0200">
+        <HorseRef name="Abelie" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="11" denominator="4" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+        <HorseRef name="Anneka" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="2" denominator="1" noOffers="No" timestamp="20180517T130201+0200" />
+        </HorseRef>
+        <HorseRef name="Bated Breath" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+        <HorseRef name="Kapama" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+        <HorseRef name="Madiba's Magic" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+        <HorseRef name="Merengue" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+        <HorseRef name="My Dream Chaser" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180517T130201+0200" />
+        </HorseRef>
+        <HorseRef name="Practical Cat" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+        <HorseRef name="St Bernadette" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+        <HorseRef name="Sweet Red" bred="AUS">
+          <ClothRef number="11" />
+          <Show numerator="5" denominator="2" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+        <HorseRef name="Waltz With Me" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+        <HorseRef name="Liquid Gold" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="17" denominator="2" noOffers="No" timestamp="20180517T130200+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1355+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="10.30">
+          <HorseRef name="Berry Crush" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.80">
+          <HorseRef name="Berry Crush" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.20">
+          <HorseRef name="Truth Of Beauty" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.80">
+          <HorseRef name="Rare Spice" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="39.40">
+          <HorseRef name="Berry Crush" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Truth Of Beauty" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="146.00">
+          <HorseRef name="Berry Crush" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Truth Of Beauty" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+          <HorseRef name="Rare Spice" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="27" type="Result">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1645+0200">
+        <HorseRef name="Sir Spencer" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Tour Of Duty" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Supanova" bred="SAF">
+          <ClothRef number="15" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Fidelio" bred="SAF">
+          <ClothRef number="14" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Keyboogie" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="He's Great" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Hot August" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Stark" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Cassini" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Western Shamrock" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Terroncito" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Dragoon" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Manx Park" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Blenderhead" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Wellspring" bred="SAF">
+          <ClothRef number="16" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="6" type="Show">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1425+0200">
+        <HorseRef name="Regal Lady" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180517T142154+0200" />
+        </HorseRef>
+        <HorseRef name="Banana Republic" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="9" denominator="2" noOffers="No" timestamp="20180517T142153+0200" />
+        </HorseRef>
+        <HorseRef name="Await The Sunset" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180517T142154+0200" />
+        </HorseRef>
+        <HorseRef name="Big Myth" bred="AUS">
+          <ClothRef number="11" />
+          <Show numerator="18" denominator="5" noOffers="No" timestamp="20180517T142154+0200" />
+        </HorseRef>
+        <HorseRef name="Jailhouse Jazz" bred="AUS">
+          <ClothRef number="14" />
+          <Show numerator="15" denominator="8" noOffers="No" timestamp="20180517T142154+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

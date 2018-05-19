@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="2" type="Show">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1215+0200">
+        <HorseRef name="Cosmic Ballet" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180514T120359+0200" />
+        </HorseRef>
+        <HorseRef name="Hateya" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="7" denominator="4" noOffers="No" timestamp="20180514T120359+0200" />
+        </HorseRef>
+        <HorseRef name="Tune Of Angels" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="16" denominator="1" noOffers="No" timestamp="20180514T120359+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

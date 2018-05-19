@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="22" type="RaceDividends">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1555+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="18.10">
+          <HorseRef name="Cavalleria" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="4.90">
+          <HorseRef name="Cavalleria" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.80">
+          <HorseRef name="Pearl Jam" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.60">
+          <HorseRef name="Chestnut's Charm" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="124.80">
+          <HorseRef name="Cavalleria" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+          <HorseRef name="Pearl Jam" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="991.30">
+          <HorseRef name="Cavalleria" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+          <HorseRef name="Pearl Jam" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Chestnut's Charm" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

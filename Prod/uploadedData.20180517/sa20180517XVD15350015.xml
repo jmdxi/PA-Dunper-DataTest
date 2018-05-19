@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="15" type="Result">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1535+0200">
+        <HorseRef name="Fragrant Miss" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Kitty Coo" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Virginia Moon" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sweet Pleasures" bred="AUS">
+          <ClothRef number="4" />
+          <StartingPrice numerator="16" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Vargraves" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ficticious" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Suprise Move" bred="NZ">
+          <ClothRef number="7" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Danish Cross" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kungfoofighting" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Aerobatic" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Lady Lucinda" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Fashion Blast" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

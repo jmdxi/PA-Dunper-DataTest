@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="8" type="Show">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1340+0200">
+        <HorseRef name="Jack Of All Trades" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="16" denominator="1" noOffers="No" timestamp="20180516T134008+0200" />
+        </HorseRef>
+        <HorseRef name="Master Thief" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180516T134009+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

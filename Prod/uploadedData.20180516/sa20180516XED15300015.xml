@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="15" type="WinningTime">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1530+0200">
+        <WinningTime time="0201.28" />
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

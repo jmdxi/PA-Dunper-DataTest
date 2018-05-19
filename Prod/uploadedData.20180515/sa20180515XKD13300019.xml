@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="19" type="RaceDividends">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1330+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="7.10">
+          <HorseRef name="China Wolf" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.10">
+          <HorseRef name="China Wolf" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.50">
+          <HorseRef name="Runaway Rebel" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.50">
+          <HorseRef name="Vodka Lime" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="51.50">
+          <HorseRef name="China Wolf" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Runaway Rebel" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="694.60">
+          <HorseRef name="China Wolf" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Runaway Rebel" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+          <HorseRef name="Vodka Lime" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

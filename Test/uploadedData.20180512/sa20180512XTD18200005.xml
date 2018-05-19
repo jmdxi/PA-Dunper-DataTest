@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="5" type="JockeyChange">
+    <MeetRef course="Turffontein" country="South Africa" date="20180512">
+      <RaceRef time="1820+0200">
+        <HorseRef name="Until Dawn" bred="SAF">
+          <ClothRef number="7" />
+          <JockeyChange name="B Cossa" units="lbs" allowance="0" overweight="0" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

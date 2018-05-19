@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1440+0200">
+        <HorseRef name="Magnificent Seven" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="7" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Unrivalled" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Silva Fox" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Mind Blowing" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="11" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Parade Of Nations" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sark" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Love Shot" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="He's Priceless" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Hogans Alley" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Black Pimpinel" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Big Boy Benji" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="16" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1515+0200">
+        <HorseRef name="Hammie's Fan" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="11" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Royal Kiss" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="7" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Magic Mary" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="7" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Polly Maggoo" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Second Chance" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Azinza" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Fleur De Lis" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Studio Blues" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Golden Stiletto" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Elusive Diva" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kamfers Dam" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Hither Green" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

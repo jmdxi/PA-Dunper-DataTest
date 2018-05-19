@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="Result">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1315+0200">
+        <HorseRef name="Monsieur Blanco" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Vittorio" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="2" disqualified="No" btnDistance="6 1/4 lengths" />
+          <StartingPrice numerator="11" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Delta Knight" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="3" disqualified="No" btnDistance="4 1/2 lengths" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Sunblitz" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="4" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Chestnut Troop" bred="SAF">
+          <ClothRef number="15" />
+          <Result finishPos="5" disqualified="No" btnDistance="2 lengths" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Mana Pula" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="6" disqualified="No" btnDistance="3 lengths" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Wine Dark Sea" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="7" disqualified="No" btnDistance="5 lengths" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Angel Landing" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="8" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Swamp Brother" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="9" disqualified="No" btnDistance="2 1/4 lengths" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Time Master" bred="SAF">
+          <ClothRef number="14" />
+          <Result finishPos="10" disqualified="No" btnDistance="4 lengths" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Arctic Siren" bred="SAF">
+          <ClothRef number="12" />
+          <Result finishPos="11" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Manaftermidnight" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="12" disqualified="No" btnDistance="3 1/2 lengths" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Big Blue Night" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="13" disqualified="No" btnDistance="2 lengths" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Lord Defender" bred="ZIM">
+          <ClothRef number="3" />
+          <Result finishPos="14" disqualified="No" btnDistance="Dist" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

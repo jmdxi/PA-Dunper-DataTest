@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Result">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1515+0200">
+        <HorseRef name="Chief Sioux" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Yesan Star" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="2" disqualified="No" btnDistance="1 length" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Trifecta" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="3" disqualified="No" btnDistance="Head" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Emperors Tractor" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="4" disqualified="No" btnDistance="Neck" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Harrison" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Razzle My Tazzle" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Talk Wrench" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="August Duke" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Devout" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

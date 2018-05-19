@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="25" type="RaceDividends">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1545+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="2.50">
+          <HorseRef name="Machomouse" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.10">
+          <HorseRef name="Machomouse" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.40">
+          <HorseRef name="In Rem" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.80">
+          <HorseRef name="Seattle Nite" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="10.20">
+          <HorseRef name="Machomouse" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="In Rem" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="60.60">
+          <HorseRef name="Machomouse" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="In Rem" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+          <HorseRef name="Seattle Nite" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

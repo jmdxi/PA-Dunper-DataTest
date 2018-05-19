@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="Result">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1215+0200">
+        <HorseRef name="Hateya" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="8" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Dame Judith" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="9" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Battle Angel" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="7" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Tune Of Angels" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Cosmic Ballet" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Katjievandiebaan" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ritzi Rock" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Salubrious" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Star Of Wings" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Turf Talk" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

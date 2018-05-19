@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="7" type="Market">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1605+0200">
+        <HorseRef name="Inga" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Raes' Dyna Jet" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="16" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Into The Groove" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="9" denominator="2" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Love Lyric" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Green Ice" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Illuminate" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="7" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Mirwa" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Wind Belle" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Dinner Date" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Laat Lammetjie" bred="AUS">
+          <ClothRef number="11" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Pumpkin Queen" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Dark Sienna" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Lady Elliodor" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Minnie The Moocher" bred="SAF">
+          <ClothRef number="15" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+        <HorseRef name="Art Attack" bred="SAF">
+          <ClothRef number="17" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180516T155140+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

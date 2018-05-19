@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="25" type="RaceDividends">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1305+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="3.20">
+          <HorseRef name="Beat It" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.20">
+          <HorseRef name="Beat It" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.70">
+          <HorseRef name="Fleek" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="4.90">
+          <HorseRef name="Innocently Naughty" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.70">
+          <HorseRef name="Pina Colada" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="12.10">
+          <HorseRef name="Beat It" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+          <HorseRef name="Fleek" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="314.80">
+          <HorseRef name="Beat It" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+          <HorseRef name="Fleek" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Innocently Naughty" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

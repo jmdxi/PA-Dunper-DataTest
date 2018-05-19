@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="31" type="RaceDividends">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1605+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="15.80">
+          <HorseRef name="Raes' Dyna Jet" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.40">
+          <HorseRef name="Raes' Dyna Jet" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.30">
+          <HorseRef name="Pumpkin Queen" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.70">
+          <HorseRef name="Dinner Date" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="189.00">
+          <HorseRef name="Raes' Dyna Jet" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Pumpkin Queen" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="3396.30">
+          <HorseRef name="Raes' Dyna Jet" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Pumpkin Queen" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+          <HorseRef name="Dinner Date" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="16" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1420+0200">
+        <HorseRef name="On That Boulevard" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Royal Agree" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Arianos Bagofgold" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="18" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Captain's Charm" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Majestic Glory" bred="AUS">
+          <ClothRef number="5" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Fieldmarshal Fenix" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Edge Of The Sun" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Elusive Wolf" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="16" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Golden Pheasant" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Y'retheone" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Roy's Marciano" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Royal Rustler" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

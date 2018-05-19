@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="5" type="Market">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1340+0200">
+        <HorseRef name="Washington Square" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="5" denominator="1" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+        <HorseRef name="Autumn Rain" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="5" denominator="1" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+        <HorseRef name="Iknow" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180516T133207+0200" />
+        </HorseRef>
+        <HorseRef name="Ragnar" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180516T133207+0200" />
+        </HorseRef>
+        <HorseRef name="King Kotini" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+        <HorseRef name="Colour Crusade" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180516T133207+0200" />
+        </HorseRef>
+        <HorseRef name="Scorch" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180516T133207+0200" />
+        </HorseRef>
+        <HorseRef name="Truly Proud" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180516T133207+0200" />
+        </HorseRef>
+        <HorseRef name="Bronzed" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="8" denominator="5" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+        <HorseRef name="Elusive Master" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+        <HorseRef name="Gentleman's Way" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180516T133207+0200" />
+        </HorseRef>
+        <HorseRef name="Jack Of All Trades" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+        <HorseRef name="Master Thief" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+        <HorseRef name="Perpetual Flame" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+        <HorseRef name="Var's Boy" bred="SAF">
+          <ClothRef number="16" />
+          <Show numerator="9" denominator="2" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+        <HorseRef name="Combat Captain" bred="SAF">
+          <ClothRef number="17" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180516T133208+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

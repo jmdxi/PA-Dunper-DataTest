@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="2" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180512">
+      <RaceRef time="1540+0200">
+        <HorseRef name="Brutal Force" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Exelero" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="11" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Omega Onslaught" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Captain Alfredo" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Union Jack" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Starflash" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Flight Captain" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Isphan" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Zip Line" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Le Grand Rouge" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Pacific Spirit" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

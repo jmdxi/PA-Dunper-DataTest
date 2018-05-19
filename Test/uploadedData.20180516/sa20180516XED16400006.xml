@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="6" type="Show">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1640+0200">
+        <HorseRef name="Amor Ardiente" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180516T163610+0200" />
+        </HorseRef>
+        <HorseRef name="Shogun" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="16" denominator="5" noOffers="No" timestamp="20180516T163610+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

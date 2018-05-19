@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="10" type="RaceState">
+    <MeetRef course="Turffontein" country="South Africa" date="20180512">
+      <RaceRef time="1450+0200">
+        <RaceState status="WeighedIn" timestamp="20180512T145653+0200" />
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

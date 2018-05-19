@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="4" type="Show">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1540+0200">
+        <HorseRef name="Blue Rhone Sky" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="17" denominator="5" noOffers="No" timestamp="20180518T153233+0200" />
+        </HorseRef>
+        <HorseRef name="Fremont" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180518T153233+0200" />
+        </HorseRef>
+        <HorseRef name="Fantasy Quest" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180518T153233+0200" />
+        </HorseRef>
+        <HorseRef name="Joking Dice" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="13" denominator="2" noOffers="No" timestamp="20180518T153233+0200" />
+        </HorseRef>
+        <HorseRef name="Corker" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180518T153233+0200" />
+        </HorseRef>
+        <HorseRef name="Gift Of Gold" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180518T153233+0200" />
+        </HorseRef>
+        <HorseRef name="Stone Town" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180518T153233+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

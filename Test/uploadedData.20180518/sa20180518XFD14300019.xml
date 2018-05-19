@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="19" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1430+0200">
+        <HorseRef name="Sacred Touch" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="1" denominator="3" />
+        </HorseRef>
+        <HorseRef name="Big Jay's" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="2" disqualified="No" btnDistance="2 3/4 lengths" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Conquering King" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="3" disqualified="No" btnDistance="2 1/2 lengths" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="King Javeline" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="4" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Dan The Man" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Don't Let Me Down" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="20" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

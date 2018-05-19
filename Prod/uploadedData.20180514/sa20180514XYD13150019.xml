@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="19" type="RaceDividends">
+    <MeetRef course="Flamingo Park" country="South Africa" date="20180514">
+      <RaceRef time="1315+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="4.60">
+          <HorseRef name="Monsieur Blanco" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.00">
+          <HorseRef name="Monsieur Blanco" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.50">
+          <HorseRef name="Vittorio" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.50">
+          <HorseRef name="Delta Knight" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="18.40">
+          <HorseRef name="Monsieur Blanco" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Vittorio" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="90.90">
+          <HorseRef name="Monsieur Blanco" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Vittorio" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Delta Knight" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

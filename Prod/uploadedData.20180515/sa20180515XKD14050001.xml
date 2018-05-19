@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="1" type="Market">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1405+0200">
+        <HorseRef name="William The Brave" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="10" denominator="1" noOffers="No" timestamp="20180515T135154+0200" />
+        </HorseRef>
+        <HorseRef name="Woodland's Forest" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="17" denominator="2" noOffers="No" timestamp="20180515T135154+0200" />
+        </HorseRef>
+        <HorseRef name="Paddington" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="11" denominator="4" noOffers="No" timestamp="20180515T135154+0200" />
+        </HorseRef>
+        <HorseRef name="Zanzibarian" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="7" denominator="2" noOffers="No" timestamp="20180515T135154+0200" />
+        </HorseRef>
+        <HorseRef name="Rock My Soul" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="16" denominator="5" noOffers="No" timestamp="20180515T135154+0200" />
+        </HorseRef>
+        <HorseRef name="Ballad Of The Sea" bred="AUS">
+          <ClothRef number="6" />
+          <Show numerator="11" denominator="4" noOffers="No" timestamp="20180515T135154+0200" />
+        </HorseRef>
+        <HorseRef name="Gibraltar Green" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180515T135154+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

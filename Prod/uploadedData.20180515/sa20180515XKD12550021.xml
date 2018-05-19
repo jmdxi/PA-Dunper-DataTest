@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="21" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180515">
+      <RaceRef time="1255+0200">
+        <HorseRef name="Montego Bay" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="18" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Seventh Sea" bred="SAF">
+          <ClothRef number="13" />
+          <Result finishPos="2" disqualified="No" btnDistance="1 length" />
+          <StartingPrice numerator="15" denominator="8" />
+        </HorseRef>
+        <HorseRef name="Pearly Rock" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="3" disqualified="No" btnDistance="1 1/2 lengths" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Elusive Kat" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="4" disqualified="No" btnDistance="2 lengths" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sandy Sport" bred="SAF">
+          <ClothRef number="12" />
+          <Result finishPos="5" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rob Roy" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="6" disqualified="No" btnDistance="Head" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Quarllo" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="7" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Ice Shield" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="8" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Boy Scout" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="9" disqualified="No" btnDistance="2 1/4 lengths" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Megalegs" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="10" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="20" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Moroccan Storm" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="11" disqualified="No" btnDistance="2 1/4 lengths" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Barrister" bred="SAF">
+          <ClothRef number="14" />
+          <Result finishPos="12" disqualified="No" btnDistance="10 lengths" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Christofph" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="13" disqualified="No" btnDistance="4 3/4 lengths" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

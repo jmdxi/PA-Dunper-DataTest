@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="25" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180512">
+      <RaceRef time="1505+0200">
+        <HorseRef name="American Landing" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="9" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Widow's Lamp" bred="SAF">
+          <ClothRef number="14" />
+          <Result finishPos="2" disqualified="No" btnDistance="5 3/4 lengths" />
+          <StartingPrice numerator="16" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Run Red" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="3" disqualified="No" btnDistance="1 length" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Golden Shamrock" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="4" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Queen Forever" bred="SAF">
+          <ClothRef number="13" />
+          <Result finishPos="5" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Streetfighting Man" bred="AUS">
+          <ClothRef number="7" />
+          <Result finishPos="6" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Sabbatical" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="7" disqualified="No" btnDistance="2 lengths" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Belonje" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="8" disqualified="No" btnDistance="2 1/2 lengths" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Chappaquiddick" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="9" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Desert Chief" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="10" disqualified="No" btnDistance="1 1/2 lengths" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kimberley Star" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="11" disqualified="No" btnDistance="6 1/4 lengths" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Multi Gold" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="12" disqualified="No" btnDistance="3 1/4 lengths" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Dictator" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="13" disqualified="No" btnDistance="13 3/4 lengths" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

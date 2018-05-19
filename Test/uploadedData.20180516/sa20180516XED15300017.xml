@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1530+0200">
+        <HorseRef name="Arizona Sunset" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Roy's Pony" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="2" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Ideal Winter" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="3" disqualified="No" btnDistance="1 3/4 lengths" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Green Fairy" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="4" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Argenteus" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Roy's Vogue" bred="AUS">
+          <ClothRef number="3" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Shirley Valentine" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Just One More" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Shifting Gears" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Roman Courtesan" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

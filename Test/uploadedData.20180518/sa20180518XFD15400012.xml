@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="12" type="RaceState">
+    <MeetRef course="Fairview" country="South Africa" date="20180518">
+      <RaceRef time="1540+0200">
+        <RaceState status="Off" timestamp="20180518T154052+0200" />
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

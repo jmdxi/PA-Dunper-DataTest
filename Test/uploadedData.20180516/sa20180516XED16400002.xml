@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="2" type="Market">
+    <MeetRef course="Scottsville" country="South Africa" date="20180516">
+      <RaceRef time="1640+0200">
+        <HorseRef name="Iron Wolf" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Baltic Amber" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Amor Ardiente" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Shogun" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="18" denominator="5" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Subtropical" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Archilles" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="11" denominator="2" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Putchini" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Francesco" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="9" denominator="2" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="African Pharaoh" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="World Mission" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="5" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Volcanic Sunset" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Border Control" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Mark Tapley" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Prince Of Promise" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+        <HorseRef name="Roy's Magic" bred="AUS">
+          <ClothRef number="15" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180516T162811+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

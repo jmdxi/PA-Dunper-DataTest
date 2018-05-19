@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="11" type="Show">
+    <MeetRef course="Greyville" country="South Africa" date="20180519">
+      <RaceRef time="1205+0200">
+        <HorseRef name="Cabo Da Cruz" bred="IRE">
+          <ClothRef number="6" />
+          <Show numerator="1" denominator="2" noOffers="No" timestamp="20180519T120540+0200" />
+        </HorseRef>
+        <HorseRef name="Podcast" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="5" denominator="2" noOffers="No" timestamp="20180519T120540+0200" />
+        </HorseRef>
+        <HorseRef name="Wordbuster" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180519T120540+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

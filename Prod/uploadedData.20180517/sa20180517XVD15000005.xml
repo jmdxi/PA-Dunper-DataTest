@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="5" type="Market">
+    <MeetRef course="Vaal" country="South Africa" date="20180517">
+      <RaceRef time="1500+0200">
+        <HorseRef name="Blue Berry Pie" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180517T144930+0200" />
+        </HorseRef>
+        <HorseRef name="Melinda's Garden" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180517T144929+0200" />
+        </HorseRef>
+        <HorseRef name="Pearl Of Bahrain" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="85" denominator="40" noOffers="No" timestamp="20180517T144929+0200" />
+        </HorseRef>
+        <HorseRef name="Glamorous Scandal" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180517T144930+0200" />
+        </HorseRef>
+        <HorseRef name="Ossetra" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="11" denominator="4" noOffers="No" timestamp="20180517T144929+0200" />
+        </HorseRef>
+        <HorseRef name="Black Biscuit" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="7" denominator="1" noOffers="No" timestamp="20180517T144930+0200" />
+        </HorseRef>
+        <HorseRef name="Purdey" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180517T144930+0200" />
+        </HorseRef>
+        <HorseRef name="Gold Shades" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180517T144930+0200" />
+        </HorseRef>
+        <HorseRef name="Sheema" bred="BRZ">
+          <ClothRef number="11" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180517T144929+0200" />
+        </HorseRef>
+        <HorseRef name="It Is Not Over" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="16" denominator="1" noOffers="No" timestamp="20180517T144929+0200" />
+        </HorseRef>
+        <HorseRef name="Itsmydarlin" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180517T144929+0200" />
+        </HorseRef>
+        <HorseRef name="Wings Of Charne" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180517T144930+0200" />
+        </HorseRef>
+        <HorseRef name="All Done" bred="SAF">
+          <ClothRef number="15" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180517T144929+0200" />
+        </HorseRef>
+        <HorseRef name="Juba" bred="SAF">
+          <ClothRef number="16" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180517T144929+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>
