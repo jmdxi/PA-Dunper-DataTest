@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="13" type="Show">
+    <MeetRef course="Fairview" country="South Africa" date="20180528">
+      <RaceRef time="1625+0200">
+        <HorseRef name="Firstimesacharm" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="3" denominator="1" noOffers="No" timestamp="20180528T162535+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

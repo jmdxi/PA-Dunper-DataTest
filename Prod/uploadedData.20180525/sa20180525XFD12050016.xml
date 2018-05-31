@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="16" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1205+0200">
+        <HorseRef name="National Park" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Finley Hill" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Cape Leopard" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Kissmebackfoot" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Adalberto" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="4" denominator="6" />
+        </HorseRef>
+        <HorseRef name="Barrat" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Bhowani Junction" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Call The Chief" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Emerito" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Handre The Hero" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="In The Navy" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Tundra" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Nahoon River" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

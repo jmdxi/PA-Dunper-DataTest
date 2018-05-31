@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="9" type="Show">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1540+0200">
+        <HorseRef name="Ancestry" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="8" denominator="1" noOffers="No" timestamp="20180526T154010+0200" />
+        </HorseRef>
+        <HorseRef name="Spring Man" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180526T154010+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

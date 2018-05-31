@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="15" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1350+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="12.20">
+          <HorseRef name="Ivory Hunter" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.80">
+          <HorseRef name="Ivory Hunter" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.70">
+          <HorseRef name="State Capture" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="4.20">
+          <HorseRef name="Chanone's Theory" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="46.30">
+          <HorseRef name="Ivory Hunter" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+          <HorseRef name="State Capture" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="524.90">
+          <HorseRef name="Ivory Hunter" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+          <HorseRef name="State Capture" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Chanone's Theory" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

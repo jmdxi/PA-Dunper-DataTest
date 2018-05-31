@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="12" type="Result">
+    <MeetRef course="Turffontein" country="South Africa" date="20180527">
+      <RaceRef time="1435+0200">
+        <HorseRef name="Yakeen" bred="AUS">
+          <ClothRef number="2" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+        </HorseRef>
+        <HorseRef name="Pilou" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="2" disqualified="No" btnDistance="1/2 length" />
+        </HorseRef>
+        <HorseRef name="Shukamisa" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="3" disqualified="No" btnDistance="Neck" />
+        </HorseRef>
+        <HorseRef name="Secret Captain" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="4" disqualified="No" btnDistance="3/4 length" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

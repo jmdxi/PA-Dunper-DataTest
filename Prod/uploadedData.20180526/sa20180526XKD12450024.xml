@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="24" type="RaceDividends">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1245+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="5.30">
+          <HorseRef name="Cyber Law" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.90">
+          <HorseRef name="Cyber Law" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="5.00">
+          <HorseRef name="Silver League" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.10">
+          <HorseRef name="Grand Silvano" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="138.80">
+          <HorseRef name="Cyber Law" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Silver League" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="595.60">
+          <HorseRef name="Cyber Law" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Silver League" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+          <HorseRef name="Grand Silvano" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="2" type="Show">
+    <MeetRef course="Greyville" country="South Africa" date="20180530">
+      <RaceRef time="1215+0200">
+        <HorseRef name="Desolate Road" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180530T120341+0200" />
+        </HorseRef>
+        <HorseRef name="One Destiny" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="5" denominator="4" noOffers="No" timestamp="20180530T120341+0200" />
+        </HorseRef>
+        <HorseRef name="Rockcliffe" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180530T120341+0200" />
+        </HorseRef>
+        <HorseRef name="Lady Jackson" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="13" denominator="8" noOffers="No" timestamp="20180530T120341+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="RaceDividends">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1320+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="11.90">
+          <HorseRef name="Supreme Orator" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.50">
+          <HorseRef name="Supreme Orator" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.00">
+          <HorseRef name="King Of Aces" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="4.20">
+          <HorseRef name="Endofmarch" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="155.50">
+          <HorseRef name="Supreme Orator" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+          <HorseRef name="King Of Aces" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="1462.50">
+          <HorseRef name="Supreme Orator" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+          <HorseRef name="King Of Aces" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+          <HorseRef name="Endofmarch" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

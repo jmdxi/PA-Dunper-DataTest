@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="2" type="NonRunner">
+    <MeetRef course="Turffontein" country="South Africa" date="20180527">
+      <RaceRef time="1255+0200">
+        <HorseRef name="One Track" bred="SAF">
+          <ClothRef number="18" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

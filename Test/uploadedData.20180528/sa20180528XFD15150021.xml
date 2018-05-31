@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="21" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180528">
+      <RaceRef time="1515+0200">
+        <HorseRef name="King Django" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Tombodi" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="2" disqualified="No" btnDistance="1 1/4 lengths" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Wemibono" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="3" disqualified="No" btnDistance="Short Head" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Siyakwamukela" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="4" disqualified="No" btnDistance="1 1/4 lengths" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Shine Like A Star" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Tin Soldier" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="19" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Just Too Early" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Red Hot Lady" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="I Will Be" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Cristian" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Lotus Elan" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="17" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Stir It Up" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

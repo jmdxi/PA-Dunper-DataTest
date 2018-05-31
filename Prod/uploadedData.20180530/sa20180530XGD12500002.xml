@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="2" type="Market">
+    <MeetRef course="Greyville" country="South Africa" date="20180530">
+      <RaceRef time="1250+0200">
+        <HorseRef name="Can You Feel It" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="17" denominator="5" noOffers="No" timestamp="20180530T123754+0200" />
+        </HorseRef>
+        <HorseRef name="Corazon" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180530T123754+0200" />
+        </HorseRef>
+        <HorseRef name="Noble Simara" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180530T123753+0200" />
+        </HorseRef>
+        <HorseRef name="Not Now Pussycat" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="6" denominator="1" noOffers="No" timestamp="20180530T123754+0200" />
+        </HorseRef>
+        <HorseRef name="Paradise Song" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180530T123753+0200" />
+        </HorseRef>
+        <HorseRef name="Steelheart" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180530T123754+0200" />
+        </HorseRef>
+        <HorseRef name="Temple Grafin" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="11" denominator="8" noOffers="No" timestamp="20180530T123754+0200" />
+        </HorseRef>
+        <HorseRef name="Tombola" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="3" denominator="1" noOffers="No" timestamp="20180530T123754+0200" />
+        </HorseRef>
+        <HorseRef name="What A Red" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180530T123754+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

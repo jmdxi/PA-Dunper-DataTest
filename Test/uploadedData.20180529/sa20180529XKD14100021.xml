@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="21" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1410+0200">
+        <HorseRef name="Clifton Beach" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="8" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Flower Of Carmel" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Bubzee Girl" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Dreams Of Love" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Champagne Lady" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ikebana" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Pacifista" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Snow Goose" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Suite Francaise" bred="AUS">
+          <ClothRef number="9" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Vanilla Ice" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Doubled Over" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Exclamation" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Green Savannah" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Grey Mistress" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

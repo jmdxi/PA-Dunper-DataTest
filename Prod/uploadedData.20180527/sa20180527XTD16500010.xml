@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="10" type="RaceDividends">
+    <MeetRef course="Turffontein" country="South Africa" date="20180527">
+      <RaceRef time="1650+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="8.70">
+          <HorseRef name="Exclusivity" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.20">
+          <HorseRef name="Exclusivity" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="6.50">
+          <HorseRef name="Catch A Thief" bred="SAF">
+            <ClothRef number="16" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.20">
+          <HorseRef name="Summer Sun" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.40">
+          <HorseRef name="Golddust Woman" bred="SAF">
+            <ClothRef number="9" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="317.80">
+          <HorseRef name="Exclusivity" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+          <HorseRef name="Catch A Thief" bred="SAF">
+            <ClothRef number="16" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="2280.50">
+          <HorseRef name="Exclusivity" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+          <HorseRef name="Catch A Thief" bred="SAF">
+            <ClothRef number="16" />
+          </HorseRef>
+          <HorseRef name="Summer Sun" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="5" type="Show">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1555+0200">
+        <HorseRef name="Attenborough" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180526T155113+0200" />
+        </HorseRef>
+        <HorseRef name="Rocky Valley" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180526T155113+0200" />
+        </HorseRef>
+        <HorseRef name="Romi's Boy" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180526T155114+0200" />
+        </HorseRef>
+        <HorseRef name="Sir Frenchie" bred="AUS">
+          <ClothRef number="12" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180526T155114+0200" />
+        </HorseRef>
+        <HorseRef name="Sunset Eyes" bred="SAF">
+          <ClothRef number="15" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180526T155114+0200" />
+        </HorseRef>
+        <HorseRef name="Our Mate Art" bred="AUS">
+          <ClothRef number="17" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180526T155114+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

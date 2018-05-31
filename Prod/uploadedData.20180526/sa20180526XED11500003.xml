@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Market">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1150+0200">
+        <HorseRef name="Adi Speed" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180526T113649+0200" />
+        </HorseRef>
+        <HorseRef name="Bangkok" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180526T113649+0200" />
+        </HorseRef>
+        <HorseRef name="Caesura" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="2" denominator="1" noOffers="No" timestamp="20180526T113649+0200" />
+        </HorseRef>
+        <HorseRef name="Carlburg" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180526T113649+0200" />
+        </HorseRef>
+        <HorseRef name="Dancing Moonlight" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180526T113649+0200" />
+        </HorseRef>
+        <HorseRef name="Italian Way" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180526T113650+0200" />
+        </HorseRef>
+        <HorseRef name="Marchingontogether" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="11" denominator="4" noOffers="No" timestamp="20180526T113649+0200" />
+        </HorseRef>
+        <HorseRef name="Merlin From Berlin" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180526T113649+0200" />
+        </HorseRef>
+        <HorseRef name="Mystical Son" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180526T113649+0200" />
+        </HorseRef>
+        <HorseRef name="Perpetual Flame" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="5" denominator="1" noOffers="No" timestamp="20180526T113649+0200" />
+        </HorseRef>
+        <HorseRef name="Star Of Zeus" bred="AUS">
+          <ClothRef number="11" />
+          <Show numerator="11" denominator="5" noOffers="No" timestamp="20180526T113650+0200" />
+        </HorseRef>
+        <HorseRef name="Thomas Jefferson" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="100" denominator="1" noOffers="No" timestamp="20180526T113650+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

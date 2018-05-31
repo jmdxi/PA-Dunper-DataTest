@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="1" type="Market">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1655+0200">
+        <HorseRef name="Dubai Queen" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="13" denominator="2" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Amarosa" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="13" denominator="2" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Kamaishi" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Trip To Ibiza" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="9" denominator="2" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Royal Sensation" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Symphony" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="13" denominator="2" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Hopeful" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="11" denominator="4" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Power Girl" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Waning Crescent" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Whispering Light" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Step Out" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Jingle Belle" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Yess" bred="AUS">
+          <ClothRef number="15" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+        <HorseRef name="Guilty Pleasure" bred="SAF">
+          <ClothRef number="16" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180526T163644+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1150+0200">
+        <HorseRef name="Marchingontogether" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="11" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Perpetual Flame" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Merlin From Berlin" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Caesura" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="12" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Adi Speed" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Bangkok" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Carlburg" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Dancing Moonlight" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Italian Way" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Mystical Son" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Star Of Zeus" bred="AUS">
+          <ClothRef number="11" />
+          <StartingPrice numerator="11" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Thomas Jefferson" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

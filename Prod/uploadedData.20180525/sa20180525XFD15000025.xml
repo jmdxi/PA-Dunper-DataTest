@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="25" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1500+0200">
+        <HorseRef name="Afrikaburn" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sacred Oration" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Union Jack" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="8" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Soviet Cosmonaut" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Brutal Force" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Miracle Bureau" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Razed In Black" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Catkin" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Starflash" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Breakfast Club" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Paper Town" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

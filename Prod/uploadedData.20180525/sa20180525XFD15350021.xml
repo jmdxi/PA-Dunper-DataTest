@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="21" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1535+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="11.30">
+          <HorseRef name="Desert Wisdom" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.90">
+          <HorseRef name="Desert Wisdom" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="5.20">
+          <HorseRef name="Frikkie" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.80">
+          <HorseRef name="My World" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="121.50">
+          <HorseRef name="Desert Wisdom" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+          <HorseRef name="Frikkie" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="1209.30">
+          <HorseRef name="Desert Wisdom" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+          <HorseRef name="Frikkie" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+          <HorseRef name="My World" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="24" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180528">
+      <RaceRef time="1625+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="6.30">
+          <HorseRef name="Russet Roses" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.30">
+          <HorseRef name="Russet Roses" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.90">
+          <HorseRef name="Zaida" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.80">
+          <HorseRef name="Bring Me More" bred="AUS">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="54.00">
+          <HorseRef name="Russet Roses" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Zaida" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="400.50">
+          <HorseRef name="Russet Roses" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Zaida" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+          <HorseRef name="Bring Me More" bred="AUS">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

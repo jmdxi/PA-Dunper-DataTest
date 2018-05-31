@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="13" type="RaceDividends">
+    <MeetRef course="Turffontein" country="South Africa" date="20180527">
+      <RaceRef time="1435+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="5.30">
+          <HorseRef name="Yakeen" bred="AUS">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.10">
+          <HorseRef name="Yakeen" bred="AUS">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.10">
+          <HorseRef name="Pilou" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.00">
+          <HorseRef name="Shukamisa" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="34.70">
+          <HorseRef name="Yakeen" bred="AUS">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Pilou" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="174.20">
+          <HorseRef name="Yakeen" bred="AUS">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Pilou" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+          <HorseRef name="Shukamisa" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

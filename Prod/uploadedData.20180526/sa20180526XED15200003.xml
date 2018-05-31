@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Market">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1520+0200">
+        <HorseRef name="Live Life" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="The Secret Is Out" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="7" denominator="1" noOffers="No" timestamp="20180526T150901+0200" />
+        </HorseRef>
+        <HorseRef name="Exquisite Touch" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Sommerlied" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Green Pepper" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Jo's Bond" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Gimme Six" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Myfunnyvalentine" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="20" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Magical Wonderland" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="3" denominator="1" noOffers="No" timestamp="20180526T150901+0200" />
+        </HorseRef>
+        <HorseRef name="Neptune's Rain" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="6" denominator="1" noOffers="No" timestamp="20180526T150901+0200" />
+        </HorseRef>
+        <HorseRef name="Green Plains" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="6" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Rose In Bloom" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Too Phat To Fly" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Casual Diamond" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180526T150901+0200" />
+        </HorseRef>
+        <HorseRef name="Princess Peach" bred="SAF">
+          <ClothRef number="15" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180526T150900+0200" />
+        </HorseRef>
+        <HorseRef name="Winter's Forge" bred="SAF">
+          <ClothRef number="16" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180526T150901+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

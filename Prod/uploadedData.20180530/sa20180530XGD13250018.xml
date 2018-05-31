@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="18" type="Result">
+    <MeetRef course="Greyville" country="South Africa" date="20180530">
+      <RaceRef time="1325+0200">
+        <HorseRef name="Roy's Marlin" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Teetotal" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Go Thuli Go" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Good Golly" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Dancing With Tatum" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Querari Star" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="I'm A Var" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Nightmare Helen" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Marzipan Path" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Believe The Best" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="9" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Deerupt" bred="AUS">
+          <ClothRef number="11" />
+          <StartingPrice numerator="6" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Elegant Royal" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="11" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180528">
+      <RaceRef time="1405+0200">
+        <HorseRef name="The Goon Show" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="16" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Conquering King" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="King Javeline" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Mahir" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Big Jay's" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="7" denominator="2" />
+        </HorseRef>
+        <HorseRef name="King Of Fortune" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Phantom's Charm" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Don't Let Me Down" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Christmas Cracker" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

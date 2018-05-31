@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1640+0200">
+        <HorseRef name="A New Dawn" bred="AUS">
+          <ClothRef number="3" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="15" denominator="8" />
+        </HorseRef>
+        <HorseRef name="Earth Hour" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="2" disqualified="No" btnDistance="Head" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="New Caledonia" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="3" disqualified="No" btnDistance="1 1/2 lengths" />
+          <StartingPrice numerator="16" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Friendly Tibbs" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="4" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Mac De Lago" bred="AUS">
+          <ClothRef number="1" />
+          <StartingPrice numerator="16" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Waiting For Rain" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

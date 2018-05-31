@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Result">
+    <MeetRef course="Turffontein" country="South Africa" date="20180527">
+      <RaceRef time="1255+0200">
+        <HorseRef name="Until Dawn" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+        </HorseRef>
+        <HorseRef name="Big Myth" bred="AUS">
+          <ClothRef number="13" />
+          <Result finishPos="2" disqualified="No" btnDistance="1/4 length" />
+        </HorseRef>
+        <HorseRef name="Generoso" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="3" disqualified="No" btnDistance="2 lengths" />
+        </HorseRef>
+        <HorseRef name="One Dollar Massage" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="4" disqualified="No" btnDistance="1/4 length" />
+        </HorseRef>
+        <HorseRef name="Main Way" bred="SAF">
+          <ClothRef number="15" />
+          <Result finishPos="5" disqualified="No" btnDistance="1/4 length" />
+        </HorseRef>
+        <HorseRef name="Regal Girl" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="6" disqualified="No" btnDistance="1/2 length" />
+        </HorseRef>
+        <HorseRef name="Sing And Dance" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="7" disqualified="No" btnDistance="Neck" />
+        </HorseRef>
+        <HorseRef name="Stormborne Thunder" bred="AUS">
+          <ClothRef number="16" />
+          <Result finishPos="8" disqualified="No" btnDistance="1 1/4 lengths" />
+        </HorseRef>
+        <HorseRef name="State Of Motion" bred="SAF">
+          <ClothRef number="17" />
+          <Result finishPos="9" disqualified="No" btnDistance="1 1/4 lengths" />
+        </HorseRef>
+        <HorseRef name="Sea Like Glass" bred="SAF">
+          <ClothRef number="12" />
+          <Result finishPos="10" disqualified="No" btnDistance="1 length" />
+        </HorseRef>
+        <HorseRef name="Oceans Pride" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="11" disqualified="No" btnDistance="1 3/4 lengths" />
+        </HorseRef>
+        <HorseRef name="Nessa The Dragon" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="12" disqualified="No" btnDistance="1 1/2 lengths" />
+        </HorseRef>
+        <HorseRef name="Tricia" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="13" disqualified="No" btnDistance="1/4 length" />
+        </HorseRef>
+        <HorseRef name="Kiss An Angel" bred="SAF">
+          <ClothRef number="14" />
+          <Result finishPos="14" disqualified="No" btnDistance="1/2 length" />
+        </HorseRef>
+        <HorseRef name="Missquoted" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="15" disqualified="No" btnDistance="1/2 length" />
+        </HorseRef>
+        <HorseRef name="Regal Lady" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="16" disqualified="No" btnDistance="14 lengths" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

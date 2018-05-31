@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="2" type="RaceDividends">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1225+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="5.60">
+          <HorseRef name="Red Al" bred="SAF">
+            <ClothRef number="9" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.80">
+          <HorseRef name="Red Al" bred="SAF">
+            <ClothRef number="9" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.80">
+          <HorseRef name="Majestica" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="4.50">
+          <HorseRef name="Awesomely Tuned" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="41.50">
+          <HorseRef name="Red Al" bred="SAF">
+            <ClothRef number="9" />
+          </HorseRef>
+          <HorseRef name="Majestica" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="521.20">
+          <HorseRef name="Red Al" bred="SAF">
+            <ClothRef number="9" />
+          </HorseRef>
+          <HorseRef name="Majestica" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+          <HorseRef name="Awesomely Tuned" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

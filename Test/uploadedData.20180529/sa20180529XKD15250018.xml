@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="18" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1525+0200">
+        <HorseRef name="Arabian Air" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="1" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Carnage" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Lucky Dancer" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="One World" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="8" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Sacred Arrow" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Temp The Tiger" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ferrari's Moon" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Seventh Silver" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="21" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1555+0200">
+        <HorseRef name="Bold Respect" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Pinnacle Peak" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="2" disqualified="No" btnDistance="1 3/4 lengths" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sunset Eyes" bred="SAF">
+          <ClothRef number="15" />
+          <Result finishPos="3" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rocky Valley" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="4" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="London Call" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Attenborough" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Trip To Heaven" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Always In Charge" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Naafer" bred="AUS">
+          <ClothRef number="7" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Speedpoint" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Romi's Boy" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sir Frenchie" bred="AUS">
+          <ClothRef number="12" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kasimir" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Tandava" bred="ZIM">
+          <ClothRef number="16" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Our Mate Art" bred="AUS">
+          <ClothRef number="17" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

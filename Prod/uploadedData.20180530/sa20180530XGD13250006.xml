@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="6" type="Show">
+    <MeetRef course="Greyville" country="South Africa" date="20180530">
+      <RaceRef time="1325+0200">
+        <HorseRef name="Roy's Marlin" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180530T131912+0200" />
+        </HorseRef>
+        <HorseRef name="Teetotal" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180530T131912+0200" />
+        </HorseRef>
+        <HorseRef name="Believe The Best" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="2" denominator="1" noOffers="No" timestamp="20180530T131912+0200" />
+        </HorseRef>
+        <HorseRef name="Deerupt" bred="AUS">
+          <ClothRef number="11" />
+          <Show numerator="10" denominator="11" noOffers="No" timestamp="20180530T131912+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

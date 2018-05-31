@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="1" type="Market">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1240+0200">
+        <HorseRef name="San Rochelle" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="5" denominator="2" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="Estimet" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="Yes No Maybe" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="100" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="My Advocate" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="100" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="River Nymph" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="The Mammoth" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="Unexpected View" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="Boldness" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="It's A Girl" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="13" denominator="2" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="Melinda" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="Rebel Wilson" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="11" denominator="10" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="Seattle Empress" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="17" denominator="2" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="She Rules" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+        <HorseRef name="Tree Of Life" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180525T123032+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

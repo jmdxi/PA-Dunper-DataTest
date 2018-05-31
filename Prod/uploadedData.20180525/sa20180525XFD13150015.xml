@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="15" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1315+0200">
+        <HorseRef name="Supreme Winter" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="2" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Landlord" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sleek Gold" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Popinjay" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Buzzards Bay" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Draxter" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kobus" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="14" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Little Drummer Boy" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Pilothouse" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="85" denominator="40" />
+        </HorseRef>
+        <HorseRef name="Tarique" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Hurricane Sasha" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

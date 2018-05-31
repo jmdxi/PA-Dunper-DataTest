@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="21" type="RaceDividends">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1640+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="3.10">
+          <HorseRef name="A New Dawn" bred="AUS">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.20">
+          <HorseRef name="A New Dawn" bred="AUS">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.80">
+          <HorseRef name="Earth Hour" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="9.80">
+          <HorseRef name="A New Dawn" bred="AUS">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Earth Hour" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="24.10">
+          <HorseRef name="A New Dawn" bred="AUS">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Earth Hour" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+          <HorseRef name="New Caledonia" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

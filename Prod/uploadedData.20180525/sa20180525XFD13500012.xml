@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="12" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1350+0200">
+        <HorseRef name="Ivory Hunter" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="State Capture" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="7" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Chanone's Theory" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Mahir" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="La Scala" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="7" denominator="4" />
+        </HorseRef>
+        <HorseRef name="Grey Halo" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="13" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Pocket Rocket" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Swordofthespirit" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ras Algethi" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

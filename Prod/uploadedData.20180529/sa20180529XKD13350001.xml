@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="1" type="Market">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1335+0200">
+        <HorseRef name="Ajay" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="Blue Roller" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="2" denominator="5" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="Burano" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="Christofph" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="Spy" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="17" denominator="2" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="The Peacemaker" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="Water Bourne" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="100" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="All In Line" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="King Of Britain" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="Louis The Great" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="Rock The Cot" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="Seventh Sea" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="3" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+        <HorseRef name="Shepherd's Sky" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="20" denominator="1" noOffers="No" timestamp="20180529T132158+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

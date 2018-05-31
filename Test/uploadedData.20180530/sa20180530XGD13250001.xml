@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="1" type="Market">
+    <MeetRef course="Greyville" country="South Africa" date="20180530">
+      <RaceRef time="1325+0200">
+        <HorseRef name="Roy's Marlin" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180530T131215+0200" />
+        </HorseRef>
+        <HorseRef name="Teetotal" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180530T131215+0200" />
+        </HorseRef>
+        <HorseRef name="Go Thuli Go" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="8" denominator="1" noOffers="No" timestamp="20180530T131215+0200" />
+        </HorseRef>
+        <HorseRef name="Good Golly" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180530T131214+0200" />
+        </HorseRef>
+        <HorseRef name="Dancing With Tatum" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180530T131215+0200" />
+        </HorseRef>
+        <HorseRef name="Querari Star" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180530T131215+0200" />
+        </HorseRef>
+        <HorseRef name="I'm A Var" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180530T131214+0200" />
+        </HorseRef>
+        <HorseRef name="Nightmare Helen" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180530T131214+0200" />
+        </HorseRef>
+        <HorseRef name="Marzipan Path" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180530T131215+0200" />
+        </HorseRef>
+        <HorseRef name="Believe The Best" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="15" denominator="8" noOffers="No" timestamp="20180530T131214+0200" />
+        </HorseRef>
+        <HorseRef name="Deerupt" bred="AUS">
+          <ClothRef number="11" />
+          <Show numerator="1" denominator="1" noOffers="No" timestamp="20180530T131215+0200" />
+        </HorseRef>
+        <HorseRef name="Elegant Royal" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="7" denominator="1" noOffers="No" timestamp="20180530T131215+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

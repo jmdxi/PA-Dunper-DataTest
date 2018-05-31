@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="23" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1645+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="8.80">
+          <HorseRef name="Timedtoperfection" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.00">
+          <HorseRef name="Timedtoperfection" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="5.60">
+          <HorseRef name="Killala" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.00">
+          <HorseRef name="Across The Lake" bred="SAF">
+            <ClothRef number="15" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="127.20">
+          <HorseRef name="Timedtoperfection" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+          <HorseRef name="Killala" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="1627.90">
+          <HorseRef name="Timedtoperfection" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+          <HorseRef name="Killala" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Across The Lake" bred="SAF">
+            <ClothRef number="15" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="15" type="Result">
+    <MeetRef course="Turffontein" country="South Africa" date="20180527">
+      <RaceRef time="1145+0200">
+        <HorseRef name="Soqrat" bred="AUS">
+          <ClothRef number="10" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+        </HorseRef>
+        <HorseRef name="Victor Forth" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="2" disqualified="No" btnDistance="3 1/4 lengths" />
+        </HorseRef>
+        <HorseRef name="Bien Venue" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="3" disqualified="No" btnDistance="1/4 length" />
+        </HorseRef>
+        <HorseRef name="Roll Of Drums" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="4" disqualified="No" btnDistance="2 lengths" />
+        </HorseRef>
+        <HorseRef name="Olofberg" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="5" disqualified="No" btnDistance="1 3/4 lengths" />
+        </HorseRef>
+        <HorseRef name="Responsible" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="6" disqualified="No" btnDistance="4 lengths" />
+        </HorseRef>
+        <HorseRef name="Make Your Move" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="7" disqualified="No" btnDistance="3/4 length" />
+        </HorseRef>
+        <HorseRef name="Pieces Of Gold" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="8" disqualified="No" btnDistance="1/2 length" />
+        </HorseRef>
+        <HorseRef name="Mojito Magic" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="9" disqualified="No" btnDistance="2 1/2 lengths" />
+        </HorseRef>
+        <HorseRef name="Terero Red" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="10" disqualified="No" btnDistance="2 3/4 lengths" />
+        </HorseRef>
+        <HorseRef name="Gimmiethegimmie" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="11" disqualified="No" btnDistance="6 lengths" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

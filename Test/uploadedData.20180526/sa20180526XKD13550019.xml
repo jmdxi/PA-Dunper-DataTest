@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="19" type="RaceDividends">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1355+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="10.30">
+          <HorseRef name="Over Again" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.00">
+          <HorseRef name="Over Again" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.80">
+          <HorseRef name="Dream Dancer" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="6.00">
+          <HorseRef name="Secretariat's Girl" bred="SAF">
+            <ClothRef number="13" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="48.80">
+          <HorseRef name="Over Again" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Dream Dancer" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="1997.00">
+          <HorseRef name="Over Again" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="Dream Dancer" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+          <HorseRef name="Secretariat's Girl" bred="SAF">
+            <ClothRef number="13" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

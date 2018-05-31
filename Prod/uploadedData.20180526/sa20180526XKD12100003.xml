@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Show">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1210+0200">
+        <HorseRef name="Despasito" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180526T115952+0200" />
+        </HorseRef>
+        <HorseRef name="Dragon Power" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="4" denominator="1" noOffers="No" timestamp="20180526T115952+0200" />
+        </HorseRef>
+        <HorseRef name="Kiss Me Twice" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="4" denominator="1" noOffers="No" timestamp="20180526T115952+0200" />
+        </HorseRef>
+        <HorseRef name="Oh Dear Darling" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180526T115952+0200" />
+        </HorseRef>
+        <HorseRef name="Pearly Rock" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="18" denominator="5" noOffers="No" timestamp="20180526T115952+0200" />
+        </HorseRef>
+        <HorseRef name="Rock Of Asia" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="5" denominator="2" noOffers="No" timestamp="20180526T115952+0200" />
+        </HorseRef>
+        <HorseRef name="The Barrister" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180526T115952+0200" />
+        </HorseRef>
+        <HorseRef name="West Of Seattle" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180526T115952+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

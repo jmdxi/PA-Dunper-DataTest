@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="16" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180528">
+      <RaceRef time="1330+0200">
+        <HorseRef name="Truth Of Beauty" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="15" denominator="8" />
+        </HorseRef>
+        <HorseRef name="Kounia Bella" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Mr Hardy" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Sunny" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Bayeto" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="7" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Banstead Manor" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Dancing Ruga" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Swordofthespirit" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="80" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Stavros Christos" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

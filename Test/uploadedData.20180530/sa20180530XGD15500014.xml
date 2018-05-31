@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="14" type="Result">
+    <MeetRef course="Greyville" country="South Africa" date="20180530">
+      <RaceRef time="1550+0200">
+        <HorseRef name="Gorgeous Guest" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Royal Kaitrina" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Inyati" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Quakeshake" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="17" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Alraune" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Seattle Silva" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Madame Defarge" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Northern Storm" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Arran Isles" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sheza Rockstar" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Power Horse" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

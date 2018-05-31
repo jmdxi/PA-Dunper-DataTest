@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="1" type="Market">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1355+0200">
+        <HorseRef name="Sun At Midnight" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180526T134438+0200" />
+        </HorseRef>
+        <HorseRef name="Over Again" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180526T134439+0200" />
+        </HorseRef>
+        <HorseRef name="Rustar Dhow" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180526T134438+0200" />
+        </HorseRef>
+        <HorseRef name="Omega Force" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="13" denominator="5" noOffers="No" timestamp="20180526T134439+0200" />
+        </HorseRef>
+        <HorseRef name="Wedgwood" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180526T134439+0200" />
+        </HorseRef>
+        <HorseRef name="Velvet Dawn" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180526T134439+0200" />
+        </HorseRef>
+        <HorseRef name="Hall Of Fame" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="9" denominator="2" noOffers="No" timestamp="20180526T134439+0200" />
+        </HorseRef>
+        <HorseRef name="Dream Dancer" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="4" denominator="1" noOffers="No" timestamp="20180526T134438+0200" />
+        </HorseRef>
+        <HorseRef name="Star Burst" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180526T134438+0200" />
+        </HorseRef>
+        <HorseRef name="Favola" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180526T134439+0200" />
+        </HorseRef>
+        <HorseRef name="Sunshine Lady" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180526T134439+0200" />
+        </HorseRef>
+        <HorseRef name="Rebel's Burst" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180526T134439+0200" />
+        </HorseRef>
+        <HorseRef name="Secretariat's Girl" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180526T134439+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

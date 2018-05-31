@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Market">
+    <MeetRef course="Fairview" country="South Africa" date="20180528">
+      <RaceRef time="1220+0200">
+        <HorseRef name="Albrandino" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="16" denominator="5" noOffers="No" timestamp="20180528T120712+0200" />
+        </HorseRef>
+        <HorseRef name="Auf Viedersehen" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180528T120712+0200" />
+        </HorseRef>
+        <HorseRef name="Ex Nihilo" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180528T120712+0200" />
+        </HorseRef>
+        <HorseRef name="Exaltation" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180528T120712+0200" />
+        </HorseRef>
+        <HorseRef name="Falcon Rock" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="5" denominator="4" noOffers="No" timestamp="20180528T120712+0200" />
+        </HorseRef>
+        <HorseRef name="Noble Leader" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180528T120712+0200" />
+        </HorseRef>
+        <HorseRef name="Tune The Scope" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="2" denominator="1" noOffers="No" timestamp="20180528T120712+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="1" type="Market">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1540+0200">
+        <HorseRef name="Rocket Countdown" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="9" denominator="2" noOffers="No" timestamp="20180526T152753+0200" />
+        </HorseRef>
+        <HorseRef name="Doublemint" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180526T152753+0200" />
+        </HorseRef>
+        <HorseRef name="Rainbow Bridge" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="4" denominator="6" noOffers="No" timestamp="20180526T152753+0200" />
+        </HorseRef>
+        <HorseRef name="Ancestry" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="10" denominator="1" noOffers="No" timestamp="20180526T152753+0200" />
+        </HorseRef>
+        <HorseRef name="Morning Catch" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180526T152753+0200" />
+        </HorseRef>
+        <HorseRef name="Spring Man" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="8" denominator="1" noOffers="No" timestamp="20180526T152752+0200" />
+        </HorseRef>
+        <HorseRef name="Love Happens" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180526T152752+0200" />
+        </HorseRef>
+        <HorseRef name="Ben-hur" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180526T152753+0200" />
+        </HorseRef>
+        <HorseRef name="Pacific Chestnut" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180526T152753+0200" />
+        </HorseRef>
+        <HorseRef name="Man About Town" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="80" denominator="1" noOffers="No" timestamp="20180526T152753+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

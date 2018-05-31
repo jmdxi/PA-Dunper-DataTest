@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1630+0200">
+        <HorseRef name="Waywood" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Highway Explorer" bred="AUS">
+          <ClothRef number="2" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Burra Boy" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Haylor" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Imagine That" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Minaloushe Venture" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Private" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Roy's Taxi" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ghost Rider" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sentido" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The North Face" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Cosima" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Poet" bred="SAF">
+          <ClothRef number="15" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Prince Of Promise" bred="SAF">
+          <ClothRef number="16" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Scriptwriter" bred="SAF">
+          <ClothRef number="17" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

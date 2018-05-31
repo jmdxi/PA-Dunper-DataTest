@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="30" type="RaceDividends">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1630+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="4.80">
+          <HorseRef name="Waywood" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.10">
+          <HorseRef name="Waywood" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="7.90">
+          <HorseRef name="Burra Boy" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.90">
+          <HorseRef name="The Poet" bred="SAF">
+            <ClothRef number="15" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="115.40">
+          <HorseRef name="Waywood" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Burra Boy" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="630.30">
+          <HorseRef name="Waywood" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Burra Boy" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="The Poet" bred="SAF">
+            <ClothRef number="15" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

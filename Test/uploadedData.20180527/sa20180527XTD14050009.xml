@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="9" type="RaceDividends">
+    <MeetRef course="Turffontein" country="South Africa" date="20180527">
+      <RaceRef time="1405+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="13.70">
+          <HorseRef name="Arabian Beat" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.10">
+          <HorseRef name="Arabian Beat" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.70">
+          <HorseRef name="Just As I Said" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.20">
+          <HorseRef name="Amazing Strike" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="176.40">
+          <HorseRef name="Arabian Beat" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+          <HorseRef name="Just As I Said" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="1005.10">
+          <HorseRef name="Arabian Beat" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+          <HorseRef name="Just As I Said" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+          <HorseRef name="Amazing Strike" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="18" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1320+0200">
+        <HorseRef name="Supreme Orator" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="King Of Aces" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Endofmarch" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sunday Falls" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Teutonic Knight" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="5" disqualified="No" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Due Volte" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Count Rosberg" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Meliora" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Pergola" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Spring Gold" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Duchess Of Prussia" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="20" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Cream Soda Green" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

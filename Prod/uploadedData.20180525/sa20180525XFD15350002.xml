@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="2" type="JockeyChange">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1535+0200">
+        <HorseRef name="Mangrove" bred="SAF">
+          <ClothRef number="8" />
+          <JockeyChange name="R Munger" units="lbs" allowance="0" overweight="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

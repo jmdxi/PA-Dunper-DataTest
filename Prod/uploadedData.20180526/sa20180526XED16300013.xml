@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="13" type="Show">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1630+0200">
+        <HorseRef name="Sentido" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="17" denominator="2" noOffers="No" timestamp="20180526T162725+0200" />
+        </HorseRef>
+        <HorseRef name="The Poet" bred="SAF">
+          <ClothRef number="15" />
+          <Show numerator="5" denominator="1" noOffers="No" timestamp="20180526T162725+0200" />
+        </HorseRef>
+        <HorseRef name="Prince Of Promise" bred="SAF">
+          <ClothRef number="16" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180526T162725+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

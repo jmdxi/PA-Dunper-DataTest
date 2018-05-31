@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="14" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1300+0200">
+        <HorseRef name="Cashin" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sir Bernadini" bred="AUS">
+          <ClothRef number="2" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sylvester The Cat" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Archilles" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Bold Coast" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Gat Henshaw" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="18" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Delirious Nomad" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Savuti" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Bluemoonrising" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Roy's Magic" bred="AUS">
+          <ClothRef number="10" />
+          <StartingPrice numerator="16" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

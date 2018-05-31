@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="8" type="Show">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1645+0200">
+        <HorseRef name="Horse Haizi" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="5" denominator="1" noOffers="No" timestamp="20180525T163759+0200" />
+        </HorseRef>
+        <HorseRef name="Timedtoperfection" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="5" denominator="1" noOffers="No" timestamp="20180525T163759+0200" />
+        </HorseRef>
+        <HorseRef name="Butterfly Spirit" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="9" denominator="4" noOffers="No" timestamp="20180525T163759+0200" />
+        </HorseRef>
+        <HorseRef name="Golden Wine" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="7" denominator="1" noOffers="No" timestamp="20180525T163759+0200" />
+        </HorseRef>
+        <HorseRef name="Silva Key" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="4" denominator="1" noOffers="No" timestamp="20180525T163759+0200" />
+        </HorseRef>
+        <HorseRef name="Casa De Var" bred="SAF">
+          <ClothRef number="17" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180525T163759+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1205+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="6.50">
+          <HorseRef name="National Park" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.10">
+          <HorseRef name="National Park" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.70">
+          <HorseRef name="Finley Hill" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.10">
+          <HorseRef name="Cape Leopard" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="55.90">
+          <HorseRef name="National Park" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+          <HorseRef name="Finley Hill" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="264.30">
+          <HorseRef name="National Park" bred="SAF">
+            <ClothRef number="11" />
+          </HorseRef>
+          <HorseRef name="Finley Hill" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+          <HorseRef name="Cape Leopard" bred="SAF">
+            <ClothRef number="5" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="RaceDividends">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1445+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="1.50">
+          <HorseRef name="Cruise Along" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="2.20">
+          <HorseRef name="Cruise Along" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Sparkeling Fire" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="2.60">
+          <HorseRef name="Cruise Along" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+          <HorseRef name="Sparkeling Fire" bred="SAF">
+            <ClothRef number="6" />
+          </HorseRef>
+          <HorseRef name="Happy Girl" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

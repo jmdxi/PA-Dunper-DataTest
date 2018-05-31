@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="16" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1240+0200">
+        <HorseRef name="San Rochelle" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="9" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Estimet" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Yes No Maybe" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+        <HorseRef name="My Advocate" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+        <HorseRef name="River Nymph" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Mammoth" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Unexpected View" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Boldness" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="It's A Girl" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Melinda" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rebel Wilson" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="13" denominator="8" />
+        </HorseRef>
+        <HorseRef name="Seattle Empress" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="She Rules" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Tree Of Life" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

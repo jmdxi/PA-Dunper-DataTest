@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="5" type="Show">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1320+0200">
+        <HorseRef name="Endofmarch" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="20" denominator="1" noOffers="No" timestamp="20180526T131751+0200" />
+        </HorseRef>
+        <HorseRef name="Meliora" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="7" denominator="1" noOffers="No" timestamp="20180526T131751+0200" />
+        </HorseRef>
+        <HorseRef name="Spring Gold" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="19" denominator="5" noOffers="No" timestamp="20180526T131751+0200" />
+        </HorseRef>
+        <HorseRef name="Sunday Falls" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180526T131751+0200" />
+        </HorseRef>
+        <HorseRef name="Duchess Of Prussia" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="20" denominator="1" noOffers="No" timestamp="20180526T131751+0200" />
+        </HorseRef>
+        <HorseRef name="Supreme Orator" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180526T131751+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

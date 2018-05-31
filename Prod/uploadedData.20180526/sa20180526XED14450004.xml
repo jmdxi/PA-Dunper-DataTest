@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="4" type="Show">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1445+0200">
+        <HorseRef name="Chimichuri Run" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180526T143517+0200" />
+        </HorseRef>
+        <HorseRef name="Cirillo" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="7" denominator="2" noOffers="No" timestamp="20180526T143517+0200" />
+        </HorseRef>
+        <HorseRef name="Cue The Music" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="16" denominator="5" noOffers="No" timestamp="20180526T143517+0200" />
+        </HorseRef>
+        <HorseRef name="Di Me" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180526T143516+0200" />
+        </HorseRef>
+        <HorseRef name="Goliath Heron" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180526T143517+0200" />
+        </HorseRef>
+        <HorseRef name="Top Of The Class" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180526T143517+0200" />
+        </HorseRef>
+        <HorseRef name="Topmast" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180526T143517+0200" />
+        </HorseRef>
+        <HorseRef name="Twist Of Fate" bred="SAF">
+          <ClothRef number="14" />
+          <Show numerator="13" denominator="2" noOffers="No" timestamp="20180526T143517+0200" />
+        </HorseRef>
+        <HorseRef name="Van Halen" bred="SAF">
+          <ClothRef number="15" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180526T143517+0200" />
+        </HorseRef>
+        <HorseRef name="William The Silent" bred="SAF">
+          <ClothRef number="16" />
+          <Show numerator="6" denominator="1" noOffers="No" timestamp="20180526T143516+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

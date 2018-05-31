@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="19" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1605+0200">
+        <HorseRef name="Magnificent Seven" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="7" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Cape Xtreme" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="2" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Royal Ginger" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="3" disqualified="No" btnDistance="1 1/2 lengths" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Gimme One Night" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="4" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rock My Soul" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+        <HorseRef name="William The Brave" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Greenstreettractor" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Zanzibarian" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Palo Alto" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

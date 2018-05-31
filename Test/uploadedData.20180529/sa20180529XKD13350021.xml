@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="21" type="RaceDividends">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1335+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="3.40">
+          <HorseRef name="Seventh Sea" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.20">
+          <HorseRef name="Seventh Sea" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.00">
+          <HorseRef name="Blue Roller" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="7.50">
+          <HorseRef name="All In Line" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="5.00">
+          <HorseRef name="Seventh Sea" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+          <HorseRef name="Blue Roller" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="65.60">
+          <HorseRef name="Seventh Sea" bred="SAF">
+            <ClothRef number="12" />
+          </HorseRef>
+          <HorseRef name="Blue Roller" bred="SAF">
+            <ClothRef number="2" />
+          </HorseRef>
+          <HorseRef name="All In Line" bred="SAF">
+            <ClothRef number="8" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

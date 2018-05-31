@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="3" type="Market">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1300+0200">
+        <HorseRef name="Beautiful Beat" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Bouvier" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="14" denominator="1" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Contessa's Glance" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Empress Of Russia" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Margrethe" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="9" denominator="5" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Nastergal" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Princess Kika" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Silver Reserve" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Torvill" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="8" denominator="1" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Vodka Lime" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="5" denominator="4" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+        <HorseRef name="Winter Five" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180529T124619+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

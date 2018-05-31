@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="10" type="Show">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1245+0200">
+        <HorseRef name="Head Of The Pack" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180526T124650+0200" />
+        </HorseRef>
+        <HorseRef name="Parisian Gold" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="10" denominator="1" noOffers="No" timestamp="20180526T124650+0200" />
+        </HorseRef>
+        <HorseRef name="Grand Silvano" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="7" denominator="4" noOffers="No" timestamp="20180526T124650+0200" />
+        </HorseRef>
+        <HorseRef name="Silver League" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="16" denominator="1" noOffers="No" timestamp="20180526T124650+0200" />
+        </HorseRef>
+        <HorseRef name="Hundreds" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="17" denominator="2" noOffers="No" timestamp="20180526T124650+0200" />
+        </HorseRef>
+        <HorseRef name="The Donegal Man" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180526T124650+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

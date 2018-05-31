@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="24" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180528">
+      <RaceRef time="1625+0200">
+        <HorseRef name="Russet Roses" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Zaida" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="2" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Bring Me More" bred="AUS">
+          <ClothRef number="8" />
+          <Result finishPos="3" disqualified="No" btnDistance="1 length" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Firstimesacharm" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="4" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="3" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rocksette" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="4" disqualified="No" btnDistance="Dead Heat" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Damaraland" bred="IRE">
+          <ClothRef number="1" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Al's Bells" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Burning Mist" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Grizabell" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Perfect Tale" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Keep It Green" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Glennie" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Come On Inn" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kirinia" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

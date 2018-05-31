@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="19" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1245+0200">
+        <HorseRef name="Cyber Law" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Silver League" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Grand Silvano" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="9" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Photocopy" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Head Of The Pack" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Parisian Gold" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Hundreds" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Donegal Man" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Wealthsmith" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Boy Scout" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Metropolitan" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Potawatomi" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

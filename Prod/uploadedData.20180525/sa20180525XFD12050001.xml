@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="1" type="Market">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1205+0200">
+        <HorseRef name="Adalberto" bred="SAF">
+          <ClothRef number="1" />
+          <Show numerator="8" denominator="13" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Barrat" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="28" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Bhowani Junction" bred="SAF">
+          <ClothRef number="3" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Call The Chief" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="66" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Cape Leopard" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="15" denominator="2" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Emerito" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="100" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Finley Hill" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="6" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Handre The Hero" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="33" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="In The Navy" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="50" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Kissmebackfoot" bred="SAF">
+          <ClothRef number="10" />
+          <Show numerator="18" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="National Park" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="7" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Tundra" bred="SAF">
+          <ClothRef number="12" />
+          <Show numerator="17" denominator="2" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+        <HorseRef name="Nahoon River" bred="SAF">
+          <ClothRef number="13" />
+          <Show numerator="100" denominator="1" noOffers="No" timestamp="20180525T115145+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="14" type="RaceDividends">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1430+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="7.80">
+          <HorseRef name="Bernie" bred="SAF">
+            <ClothRef number="9" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.50">
+          <HorseRef name="Bernie" bred="SAF">
+            <ClothRef number="9" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.30">
+          <HorseRef name="Olympian" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.80">
+          <HorseRef name="Nasty Harry" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="54.20">
+          <HorseRef name="Bernie" bred="SAF">
+            <ClothRef number="9" />
+          </HorseRef>
+          <HorseRef name="Olympian" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="420.10">
+          <HorseRef name="Bernie" bred="SAF">
+            <ClothRef number="9" />
+          </HorseRef>
+          <HorseRef name="Olympian" bred="SAF">
+            <ClothRef number="1" />
+          </HorseRef>
+          <HorseRef name="Nasty Harry" bred="SAF">
+            <ClothRef number="7" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

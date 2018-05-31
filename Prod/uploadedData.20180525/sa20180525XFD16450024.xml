@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="24" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1645+0200">
+        <HorseRef name="Timedtoperfection" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Killala" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="2" disqualified="No" btnDistance="1 1/4 lengths" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Across The Lake" bred="SAF">
+          <ClothRef number="15" />
+          <Result finishPos="3" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Butterfly Spirit" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="4" disqualified="No" btnDistance="1 1/4 lengths" />
+          <StartingPrice numerator="13" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Silva Key" bred="SAF">
+          <ClothRef number="13" />
+          <Result finishPos="5" disqualified="No" btnDistance="2 1/2 lengths" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Horse Haizi" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Tara's Gold" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Besotted" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Golden Wine" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Noordhoek's Speed" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="40" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kirinia" bred="SAF">
+          <ClothRef number="16" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Casa De Var" bred="SAF">
+          <ClothRef number="17" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

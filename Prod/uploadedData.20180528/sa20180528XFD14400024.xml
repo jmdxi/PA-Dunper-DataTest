@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="24" type="RaceDividends">
+    <MeetRef course="Fairview" country="South Africa" date="20180528">
+      <RaceRef time="1440+0200">
+        <RaceTote type="Win" currency="ZAR" dividend="11.50">
+          <HorseRef name="So Enchanting" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="3.00">
+          <HorseRef name="So Enchanting" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="1.50">
+          <HorseRef name="Altitude" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Place" currency="ZAR" dividend="2.50">
+          <HorseRef name="Another Night" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Exacta" currency="ZAR" dividend="43.90">
+          <HorseRef name="So Enchanting" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+          <HorseRef name="Altitude" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+        </RaceTote>
+        <RaceTote type="Trifecta" currency="ZAR" dividend="243.80">
+          <HorseRef name="So Enchanting" bred="SAF">
+            <ClothRef number="4" />
+          </HorseRef>
+          <HorseRef name="Altitude" bred="SAF">
+            <ClothRef number="10" />
+          </HorseRef>
+          <HorseRef name="Another Night" bred="SAF">
+            <ClothRef number="3" />
+          </HorseRef>
+        </RaceTote>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

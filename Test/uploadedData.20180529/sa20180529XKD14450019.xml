@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="19" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1445+0200">
+        <HorseRef name="Cruise Along" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="4" denominator="6" />
+        </HorseRef>
+        <HorseRef name="Sparkeling Fire" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="2" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="14" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Happy Girl" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="3" disqualified="No" btnDistance="3 1/2 lengths" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

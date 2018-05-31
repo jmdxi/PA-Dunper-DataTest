@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="21" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1240+0200">
+        <HorseRef name="San Rochelle" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="9" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Estimet" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="2" disqualified="No" btnDistance="2 lengths" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Seattle Empress" bred="SAF">
+          <ClothRef number="12" />
+          <Result finishPos="3" disqualified="No" btnDistance="2 3/4 lengths" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Melinda" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="4" disqualified="No" btnDistance="1 length" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rebel Wilson" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="5" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="13" denominator="8" />
+        </HorseRef>
+        <HorseRef name="It's A Girl" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="6" disqualified="No" btnDistance="1 1/4 lengths" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Boldness" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="7" disqualified="No" btnDistance="2 1/4 lengths" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Unexpected View" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="8" disqualified="No" btnDistance="1 1/2 lengths" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Tree Of Life" bred="SAF">
+          <ClothRef number="14" />
+          <Result finishPos="9" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="River Nymph" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="10" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Yes No Maybe" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="11" disqualified="No" btnDistance="1 3/4 lengths" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Mammoth" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="12" disqualified="No" btnDistance="10 lengths" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+        <HorseRef name="My Advocate" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="13" disqualified="No" btnDistance="3 3/4 lengths" />
+          <StartingPrice numerator="100" denominator="1" />
+        </HorseRef>
+        <HorseRef name="She Rules" bred="SAF">
+          <ClothRef number="13" />
+          <Result finishPos="14" disqualified="No" btnDistance="5 1/4 lengths" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

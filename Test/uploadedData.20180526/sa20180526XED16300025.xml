@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="25" type="Result">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1630+0200">
+        <HorseRef name="Waywood" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Burra Boy" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="2" disqualified="No" btnDistance="1 3/4 lengths" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Poet" bred="SAF">
+          <ClothRef number="15" />
+          <Result finishPos="3" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Prince Of Promise" bred="SAF">
+          <ClothRef number="16" />
+          <Result finishPos="4" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Highway Explorer" bred="AUS">
+          <ClothRef number="2" />
+          <Result finishPos="5" disqualified="No" btnDistance="1 length" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Private" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="6" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Minaloushe Venture" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="7" disqualified="No" btnDistance="2 lengths" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sentido" bred="SAF">
+          <ClothRef number="12" />
+          <Result finishPos="8" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Roy's Taxi" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="9" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Ghost Rider" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="10" disqualified="No" btnDistance="3/4 length" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Scriptwriter" bred="SAF">
+          <ClothRef number="17" />
+          <Result finishPos="11" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Cosima" bred="SAF">
+          <ClothRef number="14" />
+          <Result finishPos="12" disqualified="No" btnDistance="1/2 length" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Imagine That" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="13" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Haylor" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="14" disqualified="No" btnDistance="Neck" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The North Face" bred="SAF">
+          <ClothRef number="13" />
+          <Result finishPos="15" disqualified="No" btnDistance="7 1/4 lengths" />
+          <StartingPrice numerator="33" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

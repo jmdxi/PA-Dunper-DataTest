@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="20" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1355+0200">
+        <HorseRef name="Over Again" bred="SAF">
+          <ClothRef number="2" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Dream Dancer" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Secretariat's Girl" bred="SAF">
+          <ClothRef number="13" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Favola" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Velvet Dawn" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="5" disqualified="No" />
+          <StartingPrice numerator="9" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sun At Midnight" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rustar Dhow" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Omega Force" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="16" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Wedgwood" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Hall Of Fame" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Star Burst" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Sunshine Lady" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Rebel's Burst" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

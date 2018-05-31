@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="6" type="Show">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1205+0200">
+        <HorseRef name="Barrat" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="22" denominator="1" noOffers="No" timestamp="20180525T120245+0200" />
+        </HorseRef>
+        <HorseRef name="Cape Leopard" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="6" denominator="1" noOffers="No" timestamp="20180525T120245+0200" />
+        </HorseRef>
+        <HorseRef name="Handre The Hero" bred="SAF">
+          <ClothRef number="8" />
+          <Show numerator="40" denominator="1" noOffers="No" timestamp="20180525T120245+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

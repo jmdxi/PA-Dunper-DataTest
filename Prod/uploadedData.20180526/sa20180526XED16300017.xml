@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Show">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1630+0200">
+        <HorseRef name="Imagine That" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="25" denominator="1" noOffers="No" timestamp="20180526T163254+0200" />
+        </HorseRef>
+        <HorseRef name="Minaloushe Venture" bred="SAF">
+          <ClothRef number="7" />
+          <Show numerator="12" denominator="1" noOffers="No" timestamp="20180526T163254+0200" />
+        </HorseRef>
+        <HorseRef name="Roy's Taxi" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="11" denominator="1" noOffers="No" timestamp="20180526T163254+0200" />
+        </HorseRef>
+        <HorseRef name="Ghost Rider" bred="SAF">
+          <ClothRef number="11" />
+          <Show numerator="6" denominator="1" noOffers="No" timestamp="20180526T163254+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

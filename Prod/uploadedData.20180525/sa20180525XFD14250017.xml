@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1425+0200">
+        <HorseRef name="Gimme The Stars" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Story Of My Life" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="2" disqualified="No" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="All The Bids" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="3" disqualified="No" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Prospect Strike" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="4" disqualified="No" />
+          <StartingPrice numerator="11" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Road To Indy" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Inviting Lily" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Chit Chat" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="It Is Written" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Olympic Power" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="6" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

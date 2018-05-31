@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="17" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180528">
+      <RaceRef time="1550+0200">
+        <HorseRef name="Kingston Warren" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Flying Rock" bred="SAF">
+          <ClothRef number="2" />
+          <StartingPrice numerator="5" denominator="1" />
+        </HorseRef>
+        <HorseRef name="For Luck Sake" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="9" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Omaha Tribe" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Arcsign" bred="SAF">
+          <ClothRef number="5" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Oracle Kingdom" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="8" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Miss Aphrodite" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Aviemore" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="85" denominator="40" />
+        </HorseRef>
+        <HorseRef name="Rule One" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="The Greek Soldier" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="66" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

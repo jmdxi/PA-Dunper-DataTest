@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="6" type="Show">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180529">
+      <RaceRef time="1640+0200">
+        <HorseRef name="Waiting For Rain" bred="SAF">
+          <ClothRef number="2" />
+          <Show numerator="10" denominator="1" noOffers="No" timestamp="20180529T163655+0200" />
+        </HorseRef>
+        <HorseRef name="A New Dawn" bred="AUS">
+          <ClothRef number="3" />
+          <Show numerator="2" denominator="1" noOffers="No" timestamp="20180529T163655+0200" />
+        </HorseRef>
+        <HorseRef name="Friendly Tibbs" bred="SAF">
+          <ClothRef number="6" />
+          <Show numerator="7" denominator="1" noOffers="No" timestamp="20180529T163655+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="19" type="Result">
+    <MeetRef course="Fairview" country="South Africa" date="20180525">
+      <RaceRef time="1610+0200">
+        <HorseRef name="Zevenastic" bred="SAF">
+          <ClothRef number="1" />
+          <Result finishPos="1" disqualified="No" btnDistance="" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Chestnut Wild" bred="SAF">
+          <ClothRef number="11" />
+          <Result finishPos="2" disqualified="No" btnDistance="1/4 length" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Pick Again" bred="SAF">
+          <ClothRef number="10" />
+          <Result finishPos="3" disqualified="No" btnDistance="2 1/4 lengths" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Captain Marooned" bred="SAF">
+          <ClothRef number="4" />
+          <Result finishPos="4" disqualified="No" btnDistance="1 1/2 lengths" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Man Of Fire" bred="SAF">
+          <ClothRef number="9" />
+          <Result finishPos="5" disqualified="No" btnDistance="2 lengths" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Fearless Fred" bred="SAF">
+          <ClothRef number="6" />
+          <Result finishPos="6" disqualified="No" btnDistance="11 lengths" />
+          <StartingPrice numerator="12" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Shantytown" bred="SAF">
+          <ClothRef number="7" />
+          <Result finishPos="7" disqualified="No" btnDistance="2 1/2 lengths" />
+          <StartingPrice numerator="18" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Kingston Warren" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="8" disqualified="No" btnDistance="1 1/2 lengths" />
+          <StartingPrice numerator="7" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Ess El Kay" bred="SAF">
+          <ClothRef number="8" />
+          <Result finishPos="9" disqualified="No" btnDistance="2 1/2 lengths" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Final Chance" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="10" disqualified="No" btnDistance="5 3/4 lengths" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

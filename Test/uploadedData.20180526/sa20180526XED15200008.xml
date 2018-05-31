@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="8" type="Show">
+    <MeetRef course="Scottsville" country="South Africa" date="20180526">
+      <RaceRef time="1520+0200">
+        <HorseRef name="Sommerlied" bred="SAF">
+          <ClothRef number="4" />
+          <Show numerator="9" denominator="1" noOffers="No" timestamp="20180526T151943+0200" />
+        </HorseRef>
+        <HorseRef name="Green Pepper" bred="SAF">
+          <ClothRef number="5" />
+          <Show numerator="16" denominator="1" noOffers="No" timestamp="20180526T151943+0200" />
+        </HorseRef>
+        <HorseRef name="Magical Wonderland" bred="SAF">
+          <ClothRef number="9" />
+          <Show numerator="7" denominator="2" noOffers="No" timestamp="20180526T151943+0200" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

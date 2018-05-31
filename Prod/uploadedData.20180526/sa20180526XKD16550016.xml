@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="16" type="Result">
+    <MeetRef course="Kenilworth" country="South Africa" date="20180526">
+      <RaceRef time="1655+0200">
+        <HorseRef name="Dubai Queen" bred="SAF">
+          <ClothRef number="1" />
+          <StartingPrice numerator="7" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Amarosa" bred="SAF">
+          <ClothRef number="3" />
+          <StartingPrice numerator="13" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Kamaishi" bred="SAF">
+          <ClothRef number="4" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Trip To Ibiza" bred="SAF">
+          <ClothRef number="6" />
+          <StartingPrice numerator="4" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Royal Sensation" bred="SAF">
+          <ClothRef number="7" />
+          <StartingPrice numerator="10" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Symphony" bred="SAF">
+          <ClothRef number="8" />
+          <StartingPrice numerator="15" denominator="2" />
+        </HorseRef>
+        <HorseRef name="Hopeful" bred="SAF">
+          <ClothRef number="9" />
+          <StartingPrice numerator="17" denominator="5" />
+        </HorseRef>
+        <HorseRef name="Power Girl" bred="SAF">
+          <ClothRef number="10" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Waning Crescent" bred="SAF">
+          <ClothRef number="11" />
+          <StartingPrice numerator="11" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Whispering Light" bred="SAF">
+          <ClothRef number="12" />
+          <StartingPrice numerator="28" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Step Out" bred="SAF">
+          <ClothRef number="13" />
+          <StartingPrice numerator="14" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Jingle Belle" bred="SAF">
+          <ClothRef number="14" />
+          <StartingPrice numerator="50" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Yess" bred="AUS">
+          <ClothRef number="15" />
+          <StartingPrice numerator="25" denominator="1" />
+        </HorseRef>
+        <HorseRef name="Guilty Pleasure" bred="SAF">
+          <ClothRef number="16" />
+          <StartingPrice numerator="22" denominator="1" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>

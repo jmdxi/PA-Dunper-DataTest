@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HorseRacingX xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/HorseRacingX">
+  <Message seq="10" type="Result">
+    <MeetRef course="Turffontein" country="South Africa" date="20180527">
+      <RaceRef time="1220+0200">
+        <HorseRef name="Firdoas" bred="AUS">
+          <ClothRef number="7" />
+          <Result finishPos="1" disqualified="No" />
+        </HorseRef>
+        <HorseRef name="Manousckas Beaut" bred="SAF">
+          <ClothRef number="5" />
+          <Result finishPos="2" disqualified="No" />
+        </HorseRef>
+        <HorseRef name="Che Bella" bred="SAF">
+          <ClothRef number="3" />
+          <Result finishPos="3" disqualified="No" />
+        </HorseRef>
+        <HorseRef name="Vi Va Pi Pa" bred="SAF">
+          <ClothRef number="13" />
+          <Result finishPos="4" disqualified="No" />
+        </HorseRef>
+      </RaceRef>
+    </MeetRef>
+  </Message>
+</HorseRacingX>
